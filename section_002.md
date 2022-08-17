@@ -11,14 +11,14 @@ Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatie
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Adviesgroep</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep gebruikers/deskundigen/stakeholders, RIVM en Geonovum waaraan het wijzigingsvoorstel ter advisering wordt voorgelegd. Tijdens het overleg van de Adviesgroep worden alle wijzigingsverzoeken besproken. De Adviesgroep adviseert slechts, het RIVM als functioneel beheerder besluit of de wijziging wordt doorgevoerd.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep gebruikers/deskundigen/stakeholders, RIVM en Geonovum waaraan het wijzigingsvoorstel ter advisering wordt voorgelegd. Tijdens het overleg van de Adviesgroep worden alle wijzigingsverzoeken besproken. De Adviesgroep adviseert slechts, de voorzitter van de CVGG stuurgroep stelt een nieuwe versie van het IMG vast..
 
 </td>
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>CVGG</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De Centrale Voorziening Geluidgegevens is het digitale systeem dat de geluidgegevens verzamelt. Het Rijk, provincies, gemeenten en waterschappen moeten verplicht conform de Omgevingswet geluidgegevens aanleveren. Het CVGG is in beheer bij het RIVM.  
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De Centrale Voorziening Geluidgegevens is het digitale systeem dat de geluidgegevens verzamelt. Het Rijk, provincies, gemeenten en waterschappen moeten verplicht conform de Omgevingswet geluidgegevens aanleveren. Het Ministerie van Infrastructuur en Waterstaat is de eigenaar van de CVGG, het beheer van de CVGG wordt uigevoerd door het RIVM.
   
 </td>
 </tr>
