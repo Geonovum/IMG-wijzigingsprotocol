@@ -1,11 +1,11 @@
 var respecConfig =
 {
-  subtitle: "Informatiemodel Geluid 2022",
+  subtitle: "Informatiemodel Geluid",
   pubDomain: "img",
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-07-27",
+  publishDate: "2022-08-10",
   authors: [
     {
       name: "Tyora van der Meulen",
@@ -20,10 +20,10 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
-  shortName: "wijzigingsprotocol",
+  shortName: "IMEV-wijzigingsprotocol",
   format: "markdown",
   github: "https://github.com/Geonovum/IMG-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/IMG-wijzigingsprotocol/issues/",
   edDraftURI: "https://Geonovum.github.io/IMG-wijzigingsprotocol/",
-  generatedSubtitle: "Werkversie 27 juli 2022"
+  generatedSubtitle: "Werkversie 10 augustus 2022"
 }
