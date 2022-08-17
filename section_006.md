@@ -45,5 +45,5 @@ De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met ge
 
 <i>Nieuwe producten inclusief releasenotes</i>
 
-Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de Geonovum nieuwsbrief.
+Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van de CVGG.
 
