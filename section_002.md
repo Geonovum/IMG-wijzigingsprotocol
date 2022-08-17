@@ -11,14 +11,21 @@ Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatie
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Adviesgroep</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep stakeholders/gebruikers/deskundigen plus RIVM en Geonovum waaraan het wijzigingsvoorstel ter advisering wordt voorgelegd. Tijdens het overleg van de Adviesgroep worden alle wijzigingsverzoeken besproken. De Adviesgroep adviseert slechts, het RIVM als functioneel beheerder besluit.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep gebruikers/deskundigen/stakeholders, RIVM en Geonovum waaraan het wijzigingsvoorstel ter advisering wordt voorgelegd. Tijdens het overleg van de Adviesgroep worden alle wijzigingsverzoeken besproken. De Adviesgroep adviseert slechts, het RIVM als functioneel beheerder besluit of de wijziging wordt doorgevoerd.
 
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>CVGG</b>
+
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De Centrale Voorziening Geluidgegevens is het digitale systeem dat de geluidgegevens verzamelt. Het Rijk, provincies, gemeenten en waterschappen moeten verplicht conform de Omgevingswet geluidgegevens aanleveren. Het CVGG is in beheer bij het RIVM.  
+  
 </td>
 </tr>
 <tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>I</b><b>MG</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Informatiemodel Geluid voor de gegevensuitwisseling met de Centrale Voorziening Geluidgegevens en andere gebruikers.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Informatiemodel Geluid voor de gegevensuitwisseling met de Centrale Voorziening Geluidgegevens en andere gebruikers. Het IMG is in gezamelijk beheer bij het RIVM en Geonovum.  
 
 </td>
 </tr>
