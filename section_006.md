@@ -1,6 +1,6 @@
 ## Implementatie ondersteuning
 
-Het in gebruik nemen van (een volgende versie van ) een standaardstaat centraal in deze fase. Hiervoor kunnen we de verschillende implementatiebestanden opleveren. Wij ondersteunen de implementatie met onder meer een helpdesk.
+Het in gebruik nemen van (een volgende versie van ) een standaard staat centraal in deze fase. Hiervoor kunnen we de verschillende implementatiebestanden opleveren. Wij ondersteunen de implementatie met onder meer een helpdesk.
 
 ### Technische bestanden
 
