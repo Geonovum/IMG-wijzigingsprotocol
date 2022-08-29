@@ -15,7 +15,7 @@ Ontwikkelingen in de standaarden kunnen om verschillende redenen gewenst zijn, w
 <li>aanpassing van de standaard door internationale ontwikkelingen.</li>
 </ul>
 
-Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Informatiemodel Geluid uitgevoerd. In de aanloop naar een wijziging van de standaarden bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis voor de werkgroep om een nieuwe versie van een standaard op te stellen Met behulp van onder andere een publieke consultatie leggen wij de nieuwe versie van een standaard voor aan de praktijk en vragen hun feedback.
+Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Informatiemodel Geluid uitgevoerd. In de aanloop naar een wijziging van de standaarden bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis voor de werkgroep om een nieuwe versie van een standaard op te stellen. Met behulp van onder andere een publieke consultatie leggen wij de nieuwe versie van een standaard voor aan de praktijk en vragen hun feedback.
 
 ### Inzicht in het wijzigingsproces
 
