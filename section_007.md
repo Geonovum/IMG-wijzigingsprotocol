@@ -1,44 +1,74 @@
-## Escalatie- en klachtenprocedure
+## Overzicht status van wijzigingsverzoeken
 
-In voorgaande hoofdstukken gaat het protocol ervan uit dat er wijzigingen "in vrijheid" worden doorgevoerd. In het primaire proces wordt geen rekening gehouden met noodzakelijke wijzigingen die met spoed of onder druk van bijvoorbeeld externe nieuwe regelgeving moeten worden doorgevoerd. Dit is mogelijk middels een escalatieprocedure. kunnen worden uitgevoerd.
+<table style='width: 100%;'><caption></caption>
+<colgroup><col id='col1' style='width: 23.57512953367876%;'
+<col id='col2' style='width: 76.42487046632125%;'
+</colgroup>
+<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Status voorstel</b>
 
-### Escalatie- en klachtenprocedure
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Beschrijving activiteiten</b>
 
-We doorlopen een escalatieprocedure als er een wijziging noodzakelijk is die niet in het reguliere wijzigingsproces doorgevoerd kan worden, omdat dit te lang duurt. Een uitputtende lijst met situaties en criteria wanneer dit van toepassing is, valt op voorhand niet te geven. Maar voor de beeldvorming: het gaat om situaties waarbij het niet doorvoeren van een bepaalde noodzakelijke wijziging leidt tot onaanvaardbare risico's voor de uitvoeringspraktijk of het onmogelijk uitvoeren (vanwege bijvoorbeeld tegenstrijdige wetten) van werkzaamheden.
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>NIEUW
 
-De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door te kunnen voeren.
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Als een gebruiker een melding indient krijgt deze de status “nieuw”.
 
-#### Sturende principes bij escalatie
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>TERUGKOPPELING
 
-Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.
 
-<b>Signalering</b>
-Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen.
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>ERKEND
 
-<b>Overleg</b>
-Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever voor het beheer van de betreffende standaard en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem. 
 
-<b>Besluitvorming</b>
-De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>BEVESTIGD
 
-<b>Coördinatie</b>
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever.
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Geonovum neemt deze melding mee in het wijzigingsproces van de standaard. 
 
-<b>Communicatie met het werkveld</b>
-De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de betreffende standaard wordt verwacht dat Geonovum de meest directe contacten heeft met het werkveld.
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>TOEGEWEZEN
 
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard. 
 
-#### Klachtenafhandeling
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>OPGELOST
 
-Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.
 
-<ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
-<li>Klachten over het beheer van de standaard.</li>
+</td>
+</tr>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>AFGESLOTEN
+
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De melding wordt afgesloten in de volgende situaties:<a name='_Hlk500331000'></a>
+
+<ul><li>wanneer de melding is opgenomen in de nieuwe versie van de standaard;</li>
 </ul>
 
-In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed.
+<ul><li>wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;</li>
+<li>wanneer de fout niet meer relevant wordt geacht voor de standaard.</li>
+</ul>
 
-In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de standaard en betreft niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het beheerteam van de betreffende standaard, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar opdrachtgever van het beheer van de standaard.
+De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend. 
 
-De route van indienen van klachten is bij Geonovum in principe via de helpdesk van de betreffende standaard. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen, wordt ook het type van de issues geregistreerd. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden.
+</td>
+</tr>
+</tbody>
+</table>
 

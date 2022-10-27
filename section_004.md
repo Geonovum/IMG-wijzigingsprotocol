@@ -1,23 +1,30 @@
-## Wijzigingsproces
+## Tussentijdse werkafspraken
 
-De aanleiding voor een wijzigingsproces is gebaseerd op meldingen: de wensen en gevonden fouten in het Informatiemodel Geluid, die aanleiding zijn om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform het wijzigingsprotocol.
+Het toepassen van het Informatiemodel Geluid roept soms vragen op. Bij onduidelijkheden, discrepanties of fouten in de standaard kan de praktijk vragen hoe zij de standaard – in afwachting van een formele wijziging– moet toepassen. Met name bij X wijziging van de standaard, die een grote impact op toepassing in de praktijk heeft, zullen geconstateerde fouten of gewenste wijzigingen in de regel niet heel snel worden doorgevoerd. Een tussentijds gebruiksadvies noemen we een <i>werkafspraak</i>. In dit hoofdstuk lichten we de werkwijze van werkafspraken toe.
 
-### Wijzigingenbeheer
+Als er een fout of probleem wordt geconstateerd, zal er altijd geruime tijd overheen gaan voordat dit wordt hersteld in de formele standaard. Typische voorbeelden van dit soort fouten zijn in algemene zin:
 
-Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in het Informatiemodel, indienen via de <a href='mailto:img@geonovum.nl' target='_blank'>helpdesk bij Geonovum</a>. Wij geven inzicht in de ontvangen en beoordeelde meldingen en bundelen de gehonoreerde verzoeken tot een wijzigingsvoorstel, in het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard. Het wijzigingsprotocol beschrijft het wijzigingsproces en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. Via onze website geven wij per standaard een overzicht van de ingediende meldingen, met daarbij per melding de status. Zie <a href='#overzicht-status-van-wijzigingsverzoeken'>bijlage 1<a></a> voor een overzicht van de statussen van wijzigingsverzoeken. De meldingen stellen we via de Geonovum website voor eenieder beschikbaar.
-
-Voor inzicht in de ontwikkeling, wijzigingsverzoeken en bijeenkomsten rondom van het Informatiemodel Geluid zetten we Geonovum website in.
-
-Ontwikkelingen in de standaarden kunnen om verschillende redenen gewenst zijn, waaronder:
-
-<ul><li>geconstateerde fout in de standaard;</li>
-<li>wens tot wijziging, uitbreiding of vereenvoudiging uit de praktijk;</li>
-<li>aanpassing van de standaard door internationale ontwikkelingen.</li>
+<ul><li>de ene standaard hanteert voor een bepaalde aanduiding een andere spelling dan een andere standaard, waardoor je plan formeel nooit aan alle standaarden kan voldoen;</li>
+<li>in de standaarden zijn bepaalde technische vrijheden mogelijk die op grond van een goede praktijk niet zouden moeten worden benut;</li>
+<li>in de standaarden is iets wel mogelijk, maar niet verplicht, terwijl dit wel sterk gewenst is.</li>
 </ul>
 
-Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Informatiemodel Geluid uitgevoerd. In de aanloop naar een wijziging van de standaarden bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis voor de werkgroep om een nieuwe versie van een standaard op te stellen. Met behulp van onder andere een publieke consultatie leggen wij de nieuwe versie van een standaard voor aan de praktijk en vragen hun feedback.
+In dit soort gevallen zal Geonovum na consultatie van softwareleveranciers, gebruikersgroep en ketenoverleg een werkafspraak publiceren over hoe er in afwachting van formele reparatie moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMG. De werkafspraak vervangt niet de ingebruik zijnde versie van IMG, maar geldt wel als werkwijze in afwachting van reparatie van een onderdeel van het reguliere beheer.
 
-### Inzicht in het wijzigingsproces
+Voor bovengenoemde voorbeelden zouden de werkafspraken er resp. als volgt uit kunnen zien:
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt.
+<ul><li>hanteer altijd de spelling volgens standaard A;</li>
+<li>gebruik nooit de mogelijkheid B die de standaarden bieden;</li>
+<li>doe het altijd op manier C.</li>
+</ul>
+
+De status van deze werkafspraken is als volgt:
+
+<ol><li>de werkafspraken zijn van toepassing totdat de wijzigingen in werking zijn getreden, daarna zijn ze niet meer van toepassing;</li>
+<li>indien mogelijk zijn de werkafspraken altijd een directe voorloper van de wijzigingen zelf die zullen worden doorgevoerd. Vaak zal een werkafspraak een keuze bevatten. Deze zal goed beredeneerd zijn, maar toch anders kunnen uitvallen als het daadwerkelijke wijzigingsproces wordt ingezet;</li>
+<li>binnen het wijzigingsbeheer worden er alleen werkafspraken gemaakt die vooruitlopen op aanstaande wijzigingen. Er worden binnen dit kader geen permanente werkafspraken gemaakt die niet verankerd zullen worden in de IMEV standaard;</li>
+<li>het toepassen van de werkafspraken is (van rechtswege) niet verplicht, maar geeft voor duidelijkheid en richting bij implementatie door softwareleveranciers;</li>
+<li>het toepassen van de werkafspraken vergemakkelijkt de implementatie van wijzigingen, omdat het een al een voorbereidende werkwijze is voor het ander;</li>
+<li>waar van toepassing zullen de werkafspraken niet leiden tot afkeuring van plannen die hier niet aan voldoen door de Validator. Eventueel kan wel een waarschuwing of andersoortige melding worden gegeven over de geconstateerde afwijking van de werkafspraak.</li>
+</ol>
 
