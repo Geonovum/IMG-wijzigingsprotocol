@@ -48,11 +48,11 @@ Voor het onderhoud en de ondersteuning van een oude versie van een standaard gel
 
 ### <a name='_Ref482110995'></a>Proces varianten
 
-In paragraaf <a href='#_Ref503261402'>3.2<a></a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.
+In paragraaf <a href='#_Ref503261402'>releasebeleid<a></a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.
 
 <b>Proces voor X en Y wijzigingen</b>
 
-Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#fasen-en-resultaten'>3.4<a></a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders/gebruikers. Het resultaat van de werkgroep wordt tijdens het overleg van de Adviesgroep besproken. De Adviesgroep adviseert de functioneel beheerder van het IMG. De voorzitter van de CVGG stuurgroep stelt een nieuwe versie van het model vast. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
+Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#fasen-en-resultaten'>2.4<a></a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders/gebruikers. Het resultaat van de werkgroep wordt tijdens het overleg van de Adviesgroep besproken. De Adviesgroep adviseert de functioneel beheerder van het IMG. De voorzitter van de CVGG stuurgroep stelt een nieuwe versie van het model vast. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
 
 <b>Proces voor Z wijzigingen</b>
 
@@ -75,7 +75,7 @@ De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implement
 
 <b>Besluitvorming</b>
 
-Bij Besluitvorming wordt besloten om de gewijzigde specificatie van de standaard vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>3.3<a></a>), besluit het ministerie dan wel de functioneel beheerder.
+Bij Besluitvorming wordt besloten om de gewijzigde specificatie van de standaard vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten<a></a>), besluit het ministerie dan wel de functioneel beheerder.
 
 <b>Implementatie</b>
 

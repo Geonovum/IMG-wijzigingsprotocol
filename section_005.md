@@ -1,4 +1,4 @@
-## Implementatie ondersteuning
+## Implementatieondersteuning
 
 Het in gebruik nemen van (een volgende versie van ) een standaard staat centraal in deze fase. Hiervoor kunnen we de verschillende implementatiebestanden opleveren. Wij ondersteunen de implementatie met onder meer een helpdesk.
 
@@ -15,17 +15,13 @@ Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebes
 
 Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
 
-###         Validatie en certificatie
+###         Validatie
 
-Na het opleveren van de nieuwe standaard inclusief de verschillende onderdelen, richten wij ons op de ondersteuning van de standaard door softwareleveranciers, beheerders van voorzieningen/ registers. Bij deze groep gebruikers is de ondersteuning vooral technisch van aard. De validator is het hulpmiddel bij uitstek hierbij.
-
-Soms zetten we conformiteitstoetsing in. In dat geval wordt een testprotocol voor een conformiteitstoets beschikbaar gesteld, waarmee (handmatig) kan worden gecontroleerd of een implementatie aan de norm voldoet.
-
-Ook certificering van applicaties is mogelijk. Certificering van applicaties ondersteunt niet zozeer de (kwaliteit van de) implementatie van de standaarden, als wel de (snelheid van) adoptie ervan. Zodra het werkveld voldoende volwassen is en certificering niet meer nodig is om adoptie te versnellen, kan certificering komen te vervallen.
+Na het opleveren van de nieuwe standaard inclusief de verschillende onderdelen, richten wij ons op de ondersteuning van de standaard van softwareleveranciers, beheerders van de voorziening. Bij deze groep gebruikers is de ondersteuning vooral technisch van aard. De validator is het hulpmiddel bij uitstek hierbij. Van het IMG is wel een schema beschikbaar voor validatie. Voor de implementatie van de regels is vooralsnog geen schematron beschikbaar van de validator. De regels beschreven in het IMG worden door de CVGG en softwareleveranciers nu zelf geïmplementeerd.  
 
 ###         Opleiding
 
-Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning van de gebruikers bij implementatie van de standaard. De Geonovum wiki zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen.
+Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning van de gebruikers bij implementatie van de standaard. Middelen als documentatie, bijeenkomsten en workshops zetten wij in om kennis te delen en te ondersteunen bij de implementatie van de nieuwe versie van de standaard. Publicaties in vakbladen kunnen we ook inzetten.
 
 ###         Communicatie
 
