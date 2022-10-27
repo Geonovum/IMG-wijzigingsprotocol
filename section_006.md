@@ -1,6 +1,7 @@
 ## Escalatie- en klachtenprocedure
 
-In voorgaande hoofdstukken gaat het protocol ervan uit dat er wijzigingen "in vrijheid" worden doorgevoerd. In het primaire proces wordt geen rekening gehouden met noodzakelijke wijzigingen die met spoed of onder druk van bijvoorbeeld externe nieuwe regelgeving moeten worden doorgevoerd. Dit is mogelijk middels een escalatieprocedure. kunnen worden uitgevoerd.
+In voorgaande hoofdstukken gaat het protocol ervan uit dat er wijzigingen "in vrijheid" worden doorgevoerd. In het primaire proces wordt geen rekening gehouden met noodzakelijke wijzigingen die met spoed of onder druk van bijvoorbeeld externe nieuwe regelgeving moeten worden doorgevoerd. Dit is mogelijk middels een escalatieprocedure.
+In het geval escalatie en klachtenafhandeling zicht heeft voorgedaan, vindt plaats rapportage daarvan via de kwartaalrapportage van Geonovum aan het RIVM. 
 
 ### Escalatie- en klachtenprocedure
 
@@ -16,10 +17,10 @@ Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat v
 Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen.
 
 <b>Overleg</b>
-Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever voor het beheer van de betreffende standaard en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
+Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen Geonovum, RIVM en desgewenst IenW. De partijen raadplegen de betrokkenen daar waar nodig.
 
 <b>Besluitvorming</b>
-De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
+De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever van IenW. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
 
 <b>Coördinatie</b>
 De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever.
@@ -41,4 +42,6 @@ In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aa
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de standaard en betreft niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het beheerteam van de betreffende standaard, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar opdrachtgever van het beheer van de standaard.
 
 De route van indienen van klachten is bij Geonovum in principe via de helpdesk van de betreffende standaard. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen, wordt ook het type van de issues geregistreerd. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden.
+In het 
+ 
 
