@@ -8,7 +8,7 @@ Wijzigingen in het Informatiemodel Geluid worden niet zomaar doorgevoerd; voor d
 
 ### Waarom een wijzigingsprotocol
 
-In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor deze standaard die Geonovum beheert: de manier waarop wijzigingen in het Informatiemodel Geluid plaatsvinden. Met het protocol wordt elke wijziging van de standaard een voorspelbaar proces voor de ketenpartners en gebruikers van de standaard. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt, en wanneer deze nieuwe versie(s) verwacht mogen worden.
+In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor deze standaard die Geonovum samen met het RIVM beheert: de manier waarop wijzigingen in het Informatiemodel Geluid plaatsvinden. Met het protocol wordt elke wijziging van het informatiemodel een voorspelbaar proces voor de ketenpartners en gebruikers van het informatiemodel. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt, en wanneer deze nieuwe versie(s) verwacht mogen worden.
 
 ### Begrippen
 
@@ -19,7 +19,7 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 <tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Adviesgroep</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep gebruikers/deskundigen/stakeholders, RIVM en Geonovum waaraan het wijzigingsvoorstel ter advisering wordt voorgelegd. Tijdens het overleg van de Adviesgroep worden alle wijzigingsverzoeken besproken. De Adviesgroep adviseert slechts, de voorzitter van de CVGG stuurgroep stelt een nieuwe versie van het IMG vast..
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Groep gebruikers/deskundigen/stakeholders en de beheerder van het informatiemodel (RIVM en Geonovum). De adviesgroep brengt advies uit over het wijzigingsvoorstel ter advisering wordt voorgelegd. De Adviesgroep adviseert slechts; de voorzitter van de CVGG stuurgroep stelt een nieuwe versie van het IMG vast.
 
 </td>
 </tr>
@@ -30,13 +30,22 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
   
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>I</b><b>MG</b>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>IMG</b>
 
 </td>
 <td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Informatiemodel Geluid voor de gegevensuitwisseling met de Centrale Voorziening Geluidgegevens en andere gebruikers. Het IMG is in gezamelijk beheer bij het RIVM en Geonovum.  
 
 </td>
 </tr>
+
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Stuurgroep CVGG</b>
+
+</td>
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Stuurgroep Centrale Voorziening Geluidgegevens. De stuurgroep CVGG bestaat uit vertegenwoordigers van de verschillende gebruikersgroepen van de CVGG. Het ministerie van IenW, de opdrachtgever voor het beheer van de CVGG, zit de stuurgroep voor. De opdrachtgever stemt de koers van het beheer CVGG via de stuurgroep CVGG af.  
+
+</td>
+</tr>
+
 <tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Wijzigingsprotocol</b>
 
 </td>
