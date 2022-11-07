@@ -2,7 +2,7 @@
 
 ### Introductie
 
-Geonovum ontwikkelt en beheert het Informatiemodel Geluid. Mensen die in de praktijk gebruik maken van dit informatiemodel hebben vragen over de toepassing ervan, willen weten welke ontwikkelingen er spelen, en hebben mogelijk suggesties voor aanpassingen van het informatiemodel.
+Geonovum ontwikkelt en beheert het Informatiemodel Geluid samen met het RIVM in opdracht van het minsiterie van Infrastructuur en Waterstaat. Mensen die in de praktijk gebruik maken van dit informatiemodel hebben vragen over de toepassing ervan, willen weten welke ontwikkelingen er spelen, en hebben mogelijk suggesties voor aanpassingen van het informatiemodel.
 Het opstellen en gebruik van het protocol is onderdeel van het beheerproces van een standaard. Geonovum voert het beheer en de doorontwikkeling van standaarden, waaronder het Informatiemodel Geluid, uit conform het beheer- en ontwikkelmodel voor open standaarden: <a href='https://www.logius.nl/diensten/bomos' target='_blank'>BOMOS</a>.
 Wijzigingen in het Informatiemodel Geluid worden niet zomaar doorgevoerd; voor de ene gebruiker van het model zal de wijzing gering zijn, voor de ander kan het grote gevolgen hebben. Daar houden wij rekening mee. De gebruikersgroepen van de standaarden en andere betrokkenen in het wijzigingsproces zijn vastgelegd, evenals de belangrijkste taken en verantwoordelijkheden en de momenten waarop zij betrokken zijn in dit proces.
 
