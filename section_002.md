@@ -18,7 +18,7 @@ Met behulp van een wijzigingsprotocol voor het Informatiemodel Geluid geeft Geon
 
 ### <a name='_Ref503261397'></a><a name='_Ref503261402'></a><a name='_Ref503261548'></a>Releasebeleid
 
-Een release van een standaard is een nieuwe uitgave van de standaard. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Een release betreft 1 product van een standaard of is een bundel van meerdere producten van de betreffende standaard. Bij de release is ieder product is voorzien een nieuw versienummer conform X.Y.Z schrijfwijze (zie hierna) en een status.
+Een release van een standaard is een nieuwe uitgave van de standaard. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Een release betreft 1 product van een standaard of is een bundel van meerdere producten van de betreffende standaard. Bij de release is ieder product voorzien een nieuw versienummer conform X.Y.Z schrijfwijze (zie hierna) en een status.
 
 Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingen documenteren wij en leggen wij vast in Bijlage A van het informatiemodel. De gebruiker kan zo nagaan op welke plaatsen de betreffende standaard gewijzigd is.
 
@@ -80,9 +80,13 @@ Bij Besluitvorming wordt besloten om de gewijzigde specificatie van de standaard
 
 <b>Implementatie</b>
 
-Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, dit doen de beheerders van het IMG van Geonovum en RIVM gezamenlijk. De technische bestanden zijn bijvoorbeeld testbestanden. Deze bestanden ondersteunen bij de implementatie van de standaard in de software. Beheerders van de CVVG register nemen het Informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het informatiemodel toe te lichten tijdens bijvoorbeeld bijeenkomsten of ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
+Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, dit doen de beheerders van het IMG van Geonovum en RIVM gezamenlijk. De technische bestanden zijn bijvoorbeeld testbestanden. Deze bestanden ondersteunen bij de implementatie van de standaard in de software. Beheerders van de CVGG register nemen het Informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het informatiemodel toe te lichten tijdens bijvoorbeeld bijeenkomsten of ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
-De volgende organisaties en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel. 
-
+De volgende organisaties en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel:
+  - Ministerie van Infstrastructuur en Waterstaat (IenW)
+  - RIVM
+  - Geonovum
+  - Bronhouders; omgevingsdiensten, provincies, gemeenten, Prorail, Rijkswaterstaat
+  - Softwareleveranciers; DBvision, DGMR
