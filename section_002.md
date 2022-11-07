@@ -57,7 +57,7 @@ Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href=
 
 <b>Proces voor Z wijzigingen</b>
 
-Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats d.m.v. werksessies met de werkgroep. Besluitvorming vindt plaats in afstemming met het RIVM. Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum.
+Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats door middel van werksessies met de werkgroep. Besluitvorming vindt plaats in afstemming met het RIVM. Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum.
 
 ### <a name='_Ref503261432'></a>Fasen en resultaten
 
