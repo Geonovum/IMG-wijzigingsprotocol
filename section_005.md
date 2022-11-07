@@ -11,7 +11,7 @@ Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van e
 <li>Voorbeeldberichten.</li>
 </ul>
 
-Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
+Schema’s zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
 
 Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
 
@@ -33,7 +33,7 @@ De actuele vigerende versie van het Informatiemodel is via het <a href='https://
 
 <i>Consultatie</i>
 
-Bij X-wijzigingen zal Geonovum de aanpassingen in het model in een publieke consultatie aan eenieder voorleggen.
+Bij X en Y-wijzigingen legt Geonovum de aanpassingen in het model voor aan alle gebruikers, belanghebbenden en geïnteresseerden door middel van een  publieke consultatie.
 
 <i>Werkafspraken</i>
 
@@ -42,4 +42,3 @@ De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met ge
 <i>Nieuwe producten inclusief releasenotes</i>
 
 Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van de CVGG.
-
