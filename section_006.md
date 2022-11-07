@@ -42,6 +42,3 @@ In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aa
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de standaard en betreft niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het beheerteam van de betreffende standaard, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar opdrachtgever van het beheer van de standaard.
 
 De route van indienen van klachten is bij Geonovum in principe via de helpdesk van de betreffende standaard. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen, wordt ook het type van de issues geregistreerd. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden.
-In het 
- 
-
