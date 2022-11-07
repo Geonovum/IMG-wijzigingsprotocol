@@ -17,7 +17,7 @@ Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen 
 
 ###         Validatie
 
-Na het opleveren van de nieuwe standaard inclusief de verschillende onderdelen, richten wij ons op de ondersteuning van de standaard van softwareleveranciers, beheerders van de voorziening. Bij deze groep gebruikers is de ondersteuning vooral technisch van aard. De validator is het hulpmiddel bij uitstek hierbij. Van het IMG is wel een schema beschikbaar voor validatie. Voor de implementatie van de regels is vooralsnog geen schematron beschikbaar van de validator. De regels beschreven in het IMG worden door de CVGG en softwareleveranciers nu zelf geïmplementeerd.  
+Na het opleveren van de nieuwe standaard inclusief de verschillende onderdelen, richten wij ons op de ondersteuning van de standaard van softwareleveranciers, beheerders van de voorziening. Bij deze groep gebruikers is de ondersteuning vooral technisch van aard. De validator van de CVGG is het hulpmiddel bij uitstek hierbij. Van het IMG is wel een schema beschikbaar voor validatie. Voor de implementatie van de regels is vooralsnog geen schematron beschikbaar van de validator. De regels beschreven in het IMG worden door de CVGG en softwareleveranciers nu zelf geïmplementeerd.  
 
 ###         Opleiding
 
@@ -33,7 +33,7 @@ De actuele vigerende versie van het Informatiemodel is via het <a href='https://
 
 <i>Consultatie</i>
 
-Bij X en Y-wijzigingen legt Geonovum de aanpassingen in het model voor aan alle gebruikers, belanghebbenden en geïnteresseerden door middel van een  publieke consultatie.
+Bij X en Y-wijzigingen legt Geonovum de aanpassingen in het model voor aan alle gebruikers van de standaard, belanghebbenden en geïnteresseerden door middel van een  publieke consultatie via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a> en de nieuwsbrief van de CVGG.
 
 <i>Werkafspraken</i>
 
