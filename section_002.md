@@ -18,6 +18,8 @@ Met behulp van een wijzigingsprotocol voor het Informatiemodel Geluid geeft Geon
 
 ### <a name='_Ref503261397'></a><a name='_Ref503261402'></a><a name='_Ref503261548'></a>Releasebeleid
 
+#### Nieuwe versie van de standaard
+
 Een release van een standaard is een nieuwe uitgave van de standaard. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Een release betreft 1 product van een standaard of is een bundel van meerdere producten van de betreffende standaard. Bij de release is ieder product voorzien een nieuw versienummer conform X.Y.Z schrijfwijze (zie hierna) en een status.
 
 Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingen documenteren wij en leggen wij vast in Bijlage A van het informatiemodel. De gebruiker kan zo nagaan op welke plaatsen de betreffende standaard gewijzigd is.
@@ -30,11 +32,7 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 
 <ul><li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.</li> </ul>
 
-#### Doorontwikkeling
-
-
-
-#### Oudere versie van een standaard
+#### Oudere versie van de standaard
 
 Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a> en de registers (de <a href='https://definities.geostandaarden.nl' target='_blank'>conceptenbibliotheek</a>, het <a href='https://register.geostandaarden.nl' target='_blank'>technisch register</a> en het <a href='https://docs.geostandaarden.nl' target='_blank'>documentenregister</a>). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
@@ -85,7 +83,7 @@ Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in de
 ### Betrokkenen
 
 De volgende organisaties en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel:
-  - Ministerie van Infstrastructuur en Waterstaat (IenW)
+  - Ministerie van Infrastructuur en Waterstaat (IenW)
   - RIVM
   - Geonovum
   - Bronhouders; omgevingsdiensten, provincies, gemeenten, Prorail, Rijkswaterstaat
