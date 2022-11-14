@@ -2,10 +2,10 @@ var respecConfig =
 {
   subtitle: "Informatiemodel Geluid",
   pubDomain: "img",
-  specStatus: "GN-WV",
+  specStatus: "GN-CV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-10-25",
+  publishDate: "2022-11-14",
   authors: [
     {
       name: "Tyora van der Meulen",
