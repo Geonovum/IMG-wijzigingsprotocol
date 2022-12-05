@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-10-25",
+  //publishDate: "2022-11-14",
   authors: [
     {
       name: "Tyora van der Meulen",
@@ -25,5 +25,8 @@ var respecConfig =
   github: "https://github.com/Geonovum/IMG-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/IMG-wijzigingsprotocol/issues/",
   edDraftURI: "https://Geonovum.github.io/IMG-wijzigingsprotocol/",
-  generatedSubtitle: "Werkversie 10 augustus 2022"
+  generatedSubtitle: "Werkversie 10 augustus 2022", 
+  previousPublishDate: "2022-11-14",  	    
+  previousMaturity: "GN-CV", 
+
 }
