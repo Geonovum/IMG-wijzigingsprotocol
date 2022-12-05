@@ -3,13 +3,11 @@
 In voorgaande hoofdstukken gaat het protocol ervan uit dat er wijzigingen "in vrijheid" worden doorgevoerd. In het primaire proces wordt geen rekening gehouden met noodzakelijke wijzigingen die met spoed of onder druk van bijvoorbeeld externe nieuwe regelgeving moeten worden doorgevoerd. Dit is mogelijk middels een escalatieprocedure.
 In het geval escalatie en klachtenafhandeling zicht heeft voorgedaan, vindt plaats rapportage daarvan via de kwartaalrapportage van Geonovum aan het RIVM. 
 
-### Escalatie- en klachtenprocedure
-
 We doorlopen een escalatieprocedure als er een wijziging noodzakelijk is die niet in het reguliere wijzigingsproces doorgevoerd kan worden, omdat dit te lang duurt. Een uitputtende lijst met situaties en criteria wanneer dit van toepassing is, valt op voorhand niet te geven. Maar voor de beeldvorming: het gaat om situaties waarbij het niet doorvoeren van een bepaalde noodzakelijke wijziging leidt tot onaanvaardbare risico's voor de uitvoeringspraktijk of het onmogelijk uitvoeren (vanwege bijvoorbeeld tegenstrijdige wetten) van werkzaamheden.
 
 De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door te kunnen voeren.
 
-#### Sturende principes bij escalatie
+### Sturende principes bij escalatie
 
 Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
 
@@ -29,7 +27,7 @@ De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitte
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de betreffende standaard wordt verwacht dat Geonovum de meest directe contacten heeft met het werkveld.
 
 
-#### Klachtenafhandeling
+### Klachtenafhandeling
 
 Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
 
