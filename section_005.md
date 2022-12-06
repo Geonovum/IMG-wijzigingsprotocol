@@ -37,7 +37,7 @@ Bij X en Y-wijzigingen legt Geonovum de aanpassingen in het model voor aan alle 
 
 <i>Werkafspraken</i>
 
-De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a>). De werkafspraken publiceren wij via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a>. Door middel van nieuwsberichten op de website en het versturen van de nieuwsbrief in samenwerking met RIVM en het ministerie van Infrastructuur en Waterstaat informeren wij het werkveld over de nieuwe dan wel aangepaste werkafspraak.
+De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#tussentijdse-werkafspraken'>Hoofdstuk 4<a></a>). De werkafspraken publiceren wij via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a>. Door middel van nieuwsberichten op de website en het versturen van de nieuwsbrief in samenwerking met RIVM en het ministerie van Infrastructuur en Waterstaat informeren wij het werkveld over de nieuwe dan wel aangepaste werkafspraak.
 
 <i>Nieuwe producten inclusief releasenotes</i>
 
