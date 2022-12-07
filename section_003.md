@@ -5,7 +5,7 @@ De aanleiding voor een wijzigingsproces is gebaseerd op meldingen: de wensen en 
 ### Wijzigingenbeheer
 
 Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in het Informatiemodel, indienen via de <a href='mailto:img@geonovum.nl' target='_blank'>helpdesk bij Geonovum</a>. Wij geven inzicht in de ontvangen wijzigingsverzoeken en de status van de wijzigingsverzoeken via de <a href='https://www.geonovum.nl/geo-standaarden/meldingen' target='_blank'>Geonovum website</a>. In het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard, bundelen de verzoeken tot een wijzigingsvoorstel. Het wijzigingsprotocol beschrijft het wijzigingsproces en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. 
-In de <a href='#overzicht-status-van-wijzigingsverzoeken'>hoofdstuk 7<a></a> is een overzicht van de statussen van wijzigingsverzoeken. 
+In <a href='#overzicht-status-van-wijzigingsverzoeken'>hoofdstuk 7<a></a> is een overzicht van de statussen van wijzigingsverzoeken. 
 
 Voor inzicht in de ontwikkeling, wijzigingsverzoeken en bijeenkomsten rondom van het Informatiemodel Geluid zetten we <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a> in.
 
