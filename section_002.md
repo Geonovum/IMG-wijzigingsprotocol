@@ -70,7 +70,7 @@ In de fase inhoud wordt voor ieder wijzigingsverzoek bepaald of deze wordt opgen
 
 <b>Toetsing</b>
 
-De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt eenieder (in het geval van een X of Y wijziging) of een beperkte groep belanghebbenden (in het geval van een Z wijziging) uitgenodigd om zijn visie te geven op het wijzigingsvoorstel voor de nieuwe versie van het IMG. Met deze consultaties vragen wij de gebruikers van de actief hun reactie te geven op het wijzigingsvoorstel. Het wijzigingsvoorstel inclusief de terugkoppeling uit de consultatie wordt verwerkt als release candidate van het informatiemodel geluid.
+De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt eenieder (in het geval van een X of Y wijziging) of een beperkte groep belanghebbenden (in het geval van een Z wijziging) uitgenodigd om zijn visie te geven op het wijzigingsvoorstel voor de nieuwe versie van het IMG. Met deze consultaties vragen wij de gebruikers van de standaard actief hun reactie te geven op het wijzigingsvoorstel. Het wijzigingsvoorstel inclusief de terugkoppeling uit de consultatie wordt verwerkt als release candidate van het informatiemodel geluid.
 
 <b>Besluitvorming</b>
 
