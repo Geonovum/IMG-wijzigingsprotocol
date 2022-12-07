@@ -55,7 +55,7 @@ Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href=
 
 <b>Proces voor Z wijzigingen</b>
 
-Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats door middel van werksessies met de werkgroep. Besluitvorming vindt plaats in afstemming met het RIVM. Implementatie vindt plaats door het publiceren van de wijziging op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a>.
+In overleg met de functioneel beheerder worden deze kleine wijzigingen in de volgende release opgenomen. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats door middel van werksessies met de werkgroep. Besluitvorming vindt plaats in afstemming met het RIVM/ de functioneel beheerder van IMG. Implementatie vindt plaats door het publiceren van de wijziging op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a>.
 
 ### <a name='_Ref503261432'></a>Fasen en resultaten
 
