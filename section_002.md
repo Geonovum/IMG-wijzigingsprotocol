@@ -6,17 +6,12 @@ Met behulp van een wijzigingsprotocol voor het Informatiemodel Geluid geeft Geon
 
 <ul>
 
-<li>inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;</li>
-
-<li>inzicht in de wijzigingsverzoeken;</li>
-
-<li>inzicht in een voorgestelde wijziging van de standaard;</li>
-
-<li>stabiliteit aan de standaard;</li>
-
-<li>continuïteit aan de standaard;</li>
-
-<li>een eenduidige aanpak.</li>
+<li>Inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;</li>
+<li>Inzicht in de wijzigingsverzoeken;</li>
+<li>Inzicht in een voorgestelde wijziging van de standaard;</li>
+<li>Stabiliteit aan de standaard;</li>
+<li>Continuïteit aan de standaard;</li>
+<li>Een eenduidige aanpak.</li>
 
 </ul>
 
@@ -30,9 +25,9 @@ Een release van een standaard is een nieuwe uitgave van de standaard. De wijzigi
 
 <li><b>X-wijzigingen</b> Alle wijzigingen die vragen om heraanlevering van gegevens (bestaande gegevens passen niet meer in het nieuwe XML schema) zijn X wijzigingen. De volgende wijzigingen vragen om een heraanlevering:</li>
 
-- Het verwijderen van een objecttype of attribuut
-- Het toevoegen van een verplicht objecttype of attribuutsoort 
-- Het wijzigen van de definitie of toelichting van een objecttype of attribuutsoort, zodanig dat het impact heeft op de aan te leveren gegevens 
+- Het verwijderen van een objecttype of attribuut;
+- Het toevoegen van een verplicht objecttype of attribuutsoort;
+- Het wijzigen van de definitie of toelichting van een objecttype of attribuutsoort, zodanig dat het impact heeft op de aan te leveren gegevens.
 
 Frequentie</u>: in overleg met de opdrachtgever.</li>
 </ul>
@@ -121,4 +116,9 @@ Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in de
 
 ### Betrokkenen
 
-De volgende organisaties en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel: - Ministerie van Infrastructuur en Waterstaat (IenW) - RIVM - Geonovum - Bronhouders; omgevingsdiensten, provincies, gemeenten, Prorail, Rijkswaterstaat - Softwareleveranciers; DBvision, DGMR
+De volgende organisaties en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel Geluid: 
+- Ministerie van Infrastructuur en Waterstaat (IenW);
+- RIVM;
+- Geonovum; 
+- Bronhouders: omgevingsdiensten, provincies, gemeenten, Prorail, Rijkswaterstaat;
+- Softwareleveranciers: DBvision, DGMR.
