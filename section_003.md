@@ -32,7 +32,7 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 **Processtappen**
 
-De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie ook figuur 1): 
+De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie ook figuur 2): 
 
 1. Met een ‘melding’ begint het wijzigingsproces. Doorgaans zal de gebruiker van het informatiemodel een eis of wens indienen, maar het kan ook de functioneel of technische beheerder zijn in sommige gevallen (bijv. wanneer een onderliggende standaard is bijgesteld). Er zijn meerdere ‘triggers’, die kunnen leiden tot het indienen van een wijzigingsverzoek. De kern van het wijzigingsproces is een gezamenlijk wijzigingenbeheer. Eisen en wensen, die kunnen leiden tot  wijzigingen in het informatiemodel Geluid kunnen ontstaan ten gevolge van een aantal ‘triggers’: 
 	Aanpassing van business doelen van de opdrachtgever; 
