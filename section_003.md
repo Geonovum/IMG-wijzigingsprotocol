@@ -24,9 +24,9 @@ Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Inform
 
 ### Het wijzigingsproces in detail
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande <a href='#_Ref503260625'>Figuur 2<a></a> in onderlinge samenhang zijn weergegeven. In de figuur zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
+De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande <a href='#_Ref503260625'>Figuur 2<a></a> in onderlinge samenhang zijn weergegeven. In figuur 2 zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
 
-<figure style='width: 35%;'><a name='_Ref503260625'></a><img src='media/image5.png' alt='media/image5.png'></img>
+<figure style='width: 100%;'><a name='_Ref503260625'></a><img src='media/image6.png' alt='media/image6.png'></img>
 <figcaption><a name='_Ref503260625'></a>Processchema wijzigingsbeheer IM Geluid</figcaption></figure>
 
 
@@ -34,31 +34,23 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie ook figuur 2): 
 
-1. Met een ‘melding’ begint het wijzigingsproces. Doorgaans zal de gebruiker van het informatiemodel een eis of wens indienen, maar het kan ook de functioneel of technische beheerder zijn in sommige gevallen (bijv. wanneer een onderliggende standaard is bijgesteld). Er zijn meerdere ‘triggers’, die kunnen leiden tot het indienen van een wijzigingsverzoek. De kern van het wijzigingsproces is een gezamenlijk wijzigingenbeheer. Eisen en wensen, die kunnen leiden tot  wijzigingen in het informatiemodel Geluid kunnen ontstaan ten gevolge van een aantal ‘triggers’: 
+1. Met een ‘melding’ begint het wijzigingsproces. Doorgaans zal de gebruiker van het informatiemodel een eis of wens indienen, maar het kan ook de functioneel of technische beheerder zijn in sommige gevallen (bijv. wanneer een onderliggende standaard is bijgesteld). Er zijn meerdere ‘triggers’, die kunnen leiden tot het indienen van een wijzigingsverzoek. De kern van het wijzigingsproces is een gezamenlijk wijzigingenbeheer. Eisen en wensen, die kunnen leiden tot wijzigingen in het informatiemodel Geluid kunnen ontstaan ten gevolge van de volgende triggers: 
 
-<ul>
-
-</li>Aanpassing van business doelen van de opdrachtgever;</li>
-</li>Nieuwe of aangepaste wetgeving;</li>
-</li>Aanpassing van aspecten van (onderliggende) standaarden;</li>
-</li>Gewijzigde gebruikerswensen;</li>
-</li>Wijzigingen in technische voorzieningen;</li> 
-</li>Wijzigingen in systemen waar mee gekoppeld wordt;</li> 
-</li>Het herstellen van fouten/bugs;</li>
-</li>Het voor zijn van het optreden van fouten (preventief).</li>
-
-</ul>
+-   Aanpassing van business doelen van de opdrachtgever;
+-   Nieuwe of aangepaste wetgeving;
+-   Aanpassing van aspecten van (onderliggende) standaarden;
+-   Gewijzigde gebruikerswensen;
+-   Wijzigingen in technische voorzieningen;
+-   Wijzigingen in systemen waar mee gekoppeld wordt;
+-   Het herstellen van fouten/bugs;
+-   Het voor zijn van het optreden van fouten (preventief).
 
 De bovengenoemde aanleidingen kunnen leiden tot meldingen in het informatiemodel Geluid, waarmee het wijzigingsproces in gang kan worden gezet. In het algemeen worden 4 typen meldingen onderscheiden:
 
-<ul>
-
-</li>Een vraag;</li>
-</li>Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;</li>
-</li>Een incident;</li>
-</li>Een klacht.</li>
-
-<ul>
+-   Een vraag;
+-   Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;
+-   Een incident;
+-   Een klacht.
 
 De melding wordt gestuurd naar de IMG helpdesk en ingediend via een mail aan <a href='mailto:img@geonovum.nl' target='_blank'>helpdesk bij Geonovum</a>. 
 
