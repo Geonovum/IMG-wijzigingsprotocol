@@ -9,14 +9,11 @@ Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen to
 Voor inzicht in de ontwikkeling, wijzigingsverzoeken en bijeenkomsten rondom van het Informatiemodel Geluid zetten we <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>Geonovum website</a> in.
 
 Ontwikkelingen in de standaarden kunnen om verschillende redenen gewenst zijn, waaronder:
-
 <ul>
 
-<li>geconstateerde fout in de standaard;</li>
-
-<li>wens tot wijziging, uitbreiding of vereenvoudiging uit de praktijk;</li>
-
-<li>aanpassing van de standaard door internationale ontwikkelingen.</li>
+<li>Geconstateerde fout in de standaard;</li>
+<li>Wens tot wijziging, uitbreiding of vereenvoudiging uit de praktijk;</li>
+<li>Aanpassing van de standaard door internationale ontwikkelingen.</li>
 
 </ul>
 
@@ -24,10 +21,10 @@ Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Inform
 
 ### Het wijzigingsproces in detail
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande <a href='#_Ref503260625'>Figuur 2<a></a> in onderlinge samenhang zijn weergegeven. In figuur 2 zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
+De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande <a href='#_Ref503260624'>Figuur 2<a></a> in onderlinge samenhang zijn weergegeven. In figuur 2 zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
 
-<figure style='width: 100%;'><a name='_Ref503260625'></a><img src='media/image6.png' alt='media/image6.png'></img>
-<figcaption><a name='_Ref503260625'></a>Processchema wijzigingsbeheer IM Geluid</figcaption></figure>
+<figure style='width: 100%;'><a name='_Ref503260624'></a><img src='media/image6.png' alt='media/image6.png'></img>
+<figcaption><a name='_Ref503260624'></a>Processchema wijzigingsbeheer IM Geluid</figcaption></figure>
 
 
 **Processtappen**
