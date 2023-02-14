@@ -35,20 +35,30 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie ook figuur 2): 
 
 1. Met een ‘melding’ begint het wijzigingsproces. Doorgaans zal de gebruiker van het informatiemodel een eis of wens indienen, maar het kan ook de functioneel of technische beheerder zijn in sommige gevallen (bijv. wanneer een onderliggende standaard is bijgesteld). Er zijn meerdere ‘triggers’, die kunnen leiden tot het indienen van een wijzigingsverzoek. De kern van het wijzigingsproces is een gezamenlijk wijzigingenbeheer. Eisen en wensen, die kunnen leiden tot  wijzigingen in het informatiemodel Geluid kunnen ontstaan ten gevolge van een aantal ‘triggers’: 
-	Aanpassing van business doelen van de opdrachtgever; 
-	Nieuwe of aangepaste wetgeving; 
-	Aanpassing van aspecten van (onderliggende) standaarden; 
-	Gewijzigde gebruikerswensen; 
-	Wijzigingen in technische voorzieningen; 
-	Wijzigingen in systemen waar mee gekoppeld wordt; 
-	Het herstellen van fouten/bugs;
-	Het voor zijn van het optreden van fouten (preventief).
+<ul>
+
+</li>Aanpassing van business doelen van de opdrachtgever;</li>
+</li>Nieuwe of aangepaste wetgeving;</li>
+</li>Aanpassing van aspecten van (onderliggende) standaarden;</li>
+</li>Gewijzigde gebruikerswensen;</li>
+</li>Wijzigingen in technische voorzieningen;</li> 
+</li>Wijzigingen in systemen waar mee gekoppeld wordt;</li> 
+</li>Het herstellen van fouten/bugs;</li>
+</li>Het voor zijn van het optreden van fouten (preventief).</li>
+
+</u>
 
 De bovengenoemde aanleidingen kunnen leiden tot meldingen in het informatiemodel Geluid, waarmee het wijzigingsproces in gang kan worden gezet. In het algemeen worden 4 typen meldingen onderscheiden:
-	Een vraag; 
-	Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;
-	Een incident;
-	Een klacht.
+
+<ul>
+
+</li>Een vraag;</li>
+</li>Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;</li>
+</li>Een incident;</li>
+</li>Een klacht.</li>
+
+<u>
+
 De melding wordt gestuurd naar de IMG helpdesk en ingediend via de mail aan img@geonovum.nl. 
 
 2. De IMG helpdesk (Geonovum) registreert het wijzigingsverzoek in het meldingen systeem Jira. De IMG helpdesk medewerker (technisch beheerder) beoordeelt het wijzigingsverzoek. De **IMG helpdesk** medewerker (actiehouder van de melding) controleert of de melding volledig en helder is. Bij een fout onderzoekt de medewerker of dit inderdaad het geval is. Ook kan de medewerker verder informatie opvragen bij de indiener van de melding. Ook wordt gecontroleerd of de melding geen duplicaat van een reeds ingevoerde melding. Indien de melding helder is beschreven, en het betreft een wens voor het aanpassen van de standaard of een gevonden fout, dan kan melding worden "erkend" en wordt de melding formeel opgenomen in het meldingen systeem (jira). Indien de melding de niet erkend wordt, zal de helpdesk medewerker de indiener inlichten via de mail en de melding is afgehandeld.  
