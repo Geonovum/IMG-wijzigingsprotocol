@@ -6,7 +6,7 @@ Geonovum ontwikkelt en beheert het Informatiemodel Geluid samen met het RIVM in 
 
 ### Waarom een wijzigingsprotocol
 
-In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor deze standaard die Geonovum samen met het RIVM beheert: de manier waarop wijzigingen in het Informatiemodel Geluid plaatsvinden. Met het protocol wordt elke wijziging van het informatiemodel een voorspelbaar proces voor beheerders, ontwikkelaars en gebruikers van het informatiemodel. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt, en wanneer deze nieuwe versie(s) verwacht mogen worden.
+In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor deze standaard die Geonovum samen met het RIVM beheert: de manier waarop wijzigingen in het Informatiemodel Geluid plaatsvinden. Met het protocol wordt elke wijziging van het informatiemodel een voorspelbaar proces voor beheerders, ontwikkelaars en gebruikers van het informatiemodel. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt en wanneer deze nieuwe versie(s) verwacht mogen worden.
 
 ### Begrippen
 
