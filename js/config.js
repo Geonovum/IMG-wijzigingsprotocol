@@ -11,7 +11,8 @@ var respecConfig =
       name: "Michel Grothe",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
-    }    {
+    }    
+    {
       name: "Thomas Hofman",
       company: "RIVM",
       companyURL: "https://www.rivm.nl/"
