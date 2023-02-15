@@ -8,6 +8,15 @@ var respecConfig =
   //publishDate: "2022-11-14",
   authors: [
     {
+      name: "Michel Grothe",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    }    {
+      name: "Thomas Hofman",
+      company: "RIVM",
+      companyURL: "https://www.rivm.nl/"
+    }
+    {
       name: "Tyora van der Meulen",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
