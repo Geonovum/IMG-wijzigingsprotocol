@@ -9,6 +9,11 @@ var respecConfig =
   authors: 
   [
     {
+      name: "Pieter Bresters",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    },
+    {
       name: "Michel Grothe",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
@@ -22,12 +27,22 @@ var respecConfig =
       name: "Tyora van der Meulen",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
-    }
+    },
+    {
+      name: "Monique van Scherpenzeel",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    },
+    {
+      name: "Wilco Quak",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    },   
   ],
   editors: 
   [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Michel Grothe",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
