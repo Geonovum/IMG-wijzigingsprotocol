@@ -21,11 +21,12 @@ Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het Inform
 
 ### Het wijzigingsproces in detail
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande <a href='#_Ref503260624'>Figuur 2<a></a> in onderlinge samenhang zijn weergegeven. In figuur 2 zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
+De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande Figuur 2  in onderlinge samenhang zijn weergegeven. In figuur 2 zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties weergegeven. Iedere processtap is vervolgens kort beschreven.
 
-<figure style='width: 100%;'><a name='_Ref503260624'></a><img src='media/image6.png' alt='media/image6.png'></img>
-<figcaption><a name='_Ref503260624'></a>Processchema wijzigingsbeheer IM Geluid</figcaption></figure>
-
+<figure id="Figuur_x">
+<img src="media/image6.png" alt="">
+<figcaption>Processchema wijzigingsbeheer IM Geluid</figcaption>
+</figure>
 
 **Processtappen**
 
