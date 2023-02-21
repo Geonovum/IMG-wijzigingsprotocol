@@ -27,24 +27,24 @@ Een release van een standaard is een nieuwe uitgave van de standaard. De wijzigi
 
 - Het verwijderen van een objecttype of attribuut;
 - Het toevoegen van een verplicht objecttype of attribuutsoort;
-- Het wijzigen van de definitie of toelichting van een objecttype of attribuutsoort, zodanig dat het impact heeft op de aan te leveren gegevens.
+- Het wijzigen van de definitie of toelichting van een objecttype of attribuutsoort, zodanig dat het impact heeft op de aan te leveren gegevens*
 
 Frequentie</u>: in overleg met de opdrachtgever.</li>
 </ul>
 
 <ul>
 
-<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waarde lijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie</u>: in overleg met de opdrachtgever.</li>
+<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die geen heraanlevering van gegevens vragen. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
 
 </ul>
 
 <ul>
 
-<li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.</li>
+<li><b>Z-wijzigingen</b> Dit zijn bugs/fouten in een definitie of toelichting, die geen impact hebben op de aan te leveren gegevens. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.</li>
 
 </ul>
 
-
+*Dit wordt vastgesteld door voorzitter van de stuurgroep 
 
 #### Oudere versie van de standaard
 
