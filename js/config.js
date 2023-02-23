@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  //publishDate: "2022-11-14",
+  //publishDate: "2023-02-23",
   authors: 
   [
     {
@@ -34,7 +34,7 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     },
     {
-      name: "Wilco Quak",
+      name: "Wilko Quak",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     },   
@@ -52,8 +52,8 @@ var respecConfig =
   github: "https://github.com/Geonovum/IMG-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/IMG-wijzigingsprotocol/issues/",
   edDraftURI: "https://Geonovum.github.io/IMG-wijzigingsprotocol/",
-  generatedSubtitle: "Werkversie 10 augustus 2022", 
-  previousPublishDate: "2022-11-14",  	    
-  previousMaturity: "GN-CV", 
+  //generatedSubtitle: "Werkversie 10 augustus 2022", 
+  //previousPublishDate: "",  	    
+  //previousMaturity: "GN-CV", 
 
 }
