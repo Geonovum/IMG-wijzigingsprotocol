@@ -116,7 +116,8 @@ Het in gebruik nemen van de nieuwe IMG standaard in de praktijk staat centraal i
 
 ### Betrokkenen
 
-De volgende actoren (organisaties en bedrijven) en hun rollen zijn betrokken bij het wijzigingsproces van het Informatiemodel Geluid: 
+De volgende actoren (organisaties en bedrijven) en hun rollen zijn betrokken bij het wijzigingsproces van het Informatiemodel Geluid:
+ 
 |    <br>Rol                                                                                                                                                                                        |    <br>Stakeholder                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 |    <br>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid.                                                                                                     |    <br>Ministerie van Infrastructuur en Waterstaat          |
