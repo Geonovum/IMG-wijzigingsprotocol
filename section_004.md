@@ -1,28 +1,28 @@
 ## Tussentijdse werkafspraken
 
-Het toepassen van het Informatiemodel Geluid roept soms vragen op. Bij onduidelijkheden, discrepanties of fouten in de standaard kan de praktijk vragen hoe zij de standaard – in afwachting van een formele wijziging– moet toepassen. Met name bij X wijziging van de standaard, die een grote impact op toepassing in de praktijk heeft, zullen geconstateerde fouten of gewenste wijzigingen in de regel niet heel snel worden doorgevoerd. Een tussentijds gebruiksadvies noemen we een <i>werkafspraak</i>. In dit hoofdstuk lichten we de werkwijze van werkafspraken toe.
+Het toepassen van het informatiemodel Geluid roept soms vragen op. Bij onduidelijkheden, discrepanties of fouten in de standaard kunnen in de  praktijk vragen ontstaan over hoe de standaard – in afwachting van een formele wijziging– toe te passen. Met name bij een X wijziging van de standaard, die een grote impact op toepassing in de praktijk heeft, zullen geconstateerde fouten of gewenste wijzigingen in de regel niet heel snel worden doorgevoerd. Een tussentijds gebruiksadvies wordt dan opgesteld in de vorm van een <i>tussentijdse werkafspraak</i>. In dit hoofdstuk wordt het maken van   werkafspraken toegelicht.
 
-Als er een fout of probleem wordt geconstateerd, zal er altijd geruime tijd overheen gaan voordat dit wordt hersteld in de formele standaard. Typische voorbeelden van dit soort fouten zijn in algemene zin:
+Als er een fout of probleem wordt geconstateerd, gaat er doorgaans altijd enige tijd overheen de fout of het probleem wordt hersteld in de nieuwe IMG standaard. Typische voorbeelden van dit soort fouten of problemen zijn in algemene zin:
 
-<ul><li>in de standaard zijn bepaalde technische vrijheden mogelijk die op grond van een goede praktijk niet zouden moeten worden benut;</li>
-<li>in de standaard is iets wel mogelijk, maar niet verplicht, terwijl dit wel sterk gewenst is.</li>
+<ul><li>In de IMG standaard zijn bepaalde technische vrijheden mogelijk die op grond van een goede praktijk niet zouden moeten worden benut;</li>
+<li>In de IMG standaard is iets wel mogelijk, maar niet verplicht, terwijl dit wel sterk gewenst is.</li>
 </ul>
 
-In dit soort gevallen zal Geonovum na consultatie een werkafspraak publiceren over hoe er in afwachting van formele reparatie van de standaard moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMG. De werkafspraak vervangt niet de ingebruik zijnde versie van IMG, maar geldt wel als werkwijze in afwachting van reparatie van een onderdeel van het reguliere beheer.
+In dit soort gevallen zal het beheer na consultatie een werkafspraak publiceren over hoe in afwachting van de wijziging (een reparatie) van de IMG standaard moet worden omgegaan met een geconstateerde fout of  probleem. Zo’n werkafspraak heeft de formele status van een advies van het beheer aan de gebruikers van het IMG. De tussentijdse werkafspraak vervangt niet de in gebruik zijnde versie van IMG (de vastgestelde versie), maar geldt wel als werkwijze in afwachting van de nieuwe IMG standaard (na reparatie).
 
-Voor bovengenoemde voorbeelden zouden de werkafspraken er resp. als volgt uit kunnen zien:
+Voor bovengenoemde voorbeelden zouden de werkafspraken resp. als volgt kunnen zijn:
 
-<ul><li>gebruik nooit de mogelijkheid A die de standaarden bieden;</li>
-<li>doe het altijd op manier B.</li>
+<ul><li>Gebruik nooit de mogelijkheid A die de standaarden bieden;</li>
+<li>Doe het altijd op manier B.</li>
 </ul>
 
 De status van deze werkafspraken is als volgt:
 
-<ol><li>de werkafspraken zijn van toepassing totdat de wijzigingen in werking zijn getreden, daarna zijn ze niet meer van toepassing;</li>
-<li>indien mogelijk zijn de werkafspraken altijd een directe voorloper van de wijzigingen zelf die zullen worden doorgevoerd;</li>
-<li>binnen het wijzigingsbeheer worden er alleen werkafspraken gemaakt die vooruitlopen op daadwerkelijk aanstaande wijzigingen. Er worden binnen dit kader geen permanente werkafspraken gemaakt die niet verankerd zullen worden in het IMG;</li>
-<li>het toepassen van de werkafspraken is (van rechtswege) niet verplicht, maar geeft duidelijkheid en richting bij implementatie door softwareleveranciers;</li>
-<li>het toepassen van de werkafspraken vergemakkelijkt de implementatie van wijzigingen, omdat het een al een voorbereidende werkwijze is voor het ander;</li>
-<li>data die niet voldoen aan de werkafspraken zullen niet worden afgekeurd door de validator van het CVGG. Eventueel kan wel een waarschuwing of andersoortige melding worden gegeven over de geconstateerde afwijking van de werkafspraak.</li>
+<ol><li>De tussentijdse werkafspraken zijn van toepassing totdat de wijzigingen in werking zijn getreden, daarna zijn ze niet meer van toepassing;</li>
+<li>Indien mogelijk zijn de werkafspraken altijd een directe voorloper van de wijzigingen, zelf die zullen worden doorgevoerd;</li>
+<li>Binnen het wijzigingsbeheer worden alleen werkafspraken gemaakt, die vooruitlopen op daadwerkelijk aanstaande wijzigingen. Er worden binnen dit kader geen permanente werkafspraken gemaakt die niet verankerd zullen worden in het IMG;</li>
+<li>Het toepassen van de werkafspraken is (van rechtswege) niet verplicht, maar geeft duidelijkheid en richting bij implementatie door software leveranciers;</li>
+<li>Het toepassen van de werkafspraken vergemakkelijkt de implementatie van wijzigingen, omdat het een al een voorbereidende werkwijze is voor het ander;</li>
+<li>Gegevens, die niet voldoen aan de werkafspraken, zullen niet worden afgekeurd door de validator van het CVGG. Eventueel kan wel een waarschuwing of andersoortige melding worden gegeven over de geconstateerde afwijking van de werkafspraak.</li>
 </ol>
 
