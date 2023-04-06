@@ -23,7 +23,7 @@ Een release van een standaard is een nieuwe uitgave van de standaard. De wijzigi
 
 <ul>
 
-<li><b>X-wijzigingen</b> Alle wijzigingen die vragen om heraanlevering van gegevens (bestaande gegevens passen niet meer in het nieuwe XML schema) zijn X wijzigingen. De volgende wijzigingen vragen om een heraanlevering:</li>
+<li><b>X-wijzigingen</b> Alle wijzigingen die vragen om heraanlevering van gegevens (bestaande gegevens passen niet meer in het nieuwe XML schema) zijn X wijzigingen. De volgende wijzigingen zijn voorbeelden die vragen om een heraanlevering”.</li>
 
 - Het verwijderen van een objecttype of attribuut;
 - Het toevoegen van een verplicht objecttype of attribuutsoort;
@@ -34,7 +34,7 @@ Frequentie</u>: in overleg met de opdrachtgever.</li>
 
 <ul>
 
-<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die geen heraanlevering van gegevens vragen. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
+<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die geen heraanlevering van gegevens vragen. Bijvoorbeeld het toevoegen van optioneel objecttype of  attribuut. Of bijvoorbeeld als een attribuut een nieuwe naam krijgt. Dan is geen heraanlevering nodig. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
 
 </ul>
 
