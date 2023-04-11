@@ -1,6 +1,6 @@
 ## Gebruik van het wijzigingsprotocol
 
-Het wijzigingsprotocol schrijft een vast stramien voor het wijzigen van de IMG standaard voor. Het protocol benoemt de fasen en de op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers, dsekudigen en stakeholders van het informatiemodel Geluid worden bij het wijzigen van het informatiemodel Geluid nauw betrokken. 
+Het wijzigingsprotocol schrijft een vast stramien voor het wijzigen van de IMG standaard voor. Het protocol benoemt de fasen en de op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers, deskundigen (experts) en andere stakeholders van het informatiemodel Geluid worden bij het wijzigen van het informatiemodel Geluid nauw betrokken. 
 
 Het wijzigingsprotocol voor het Informatiemodel Geluid geeft: 
 
