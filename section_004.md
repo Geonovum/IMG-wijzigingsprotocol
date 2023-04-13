@@ -12,7 +12,7 @@ Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het 
 |    <br>**Wijziging omgevingsregeling**  |    <br>Welke impact heeft het verzoek/voorstel op de omgevingsregeling?                                                           |
 |    <br>**Classificering (X/Y/Z)** |    <br> Gaat het om een X, Y, of Z wijziging?                                          |
 
-Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, softwareleveranciers, CVGG en omgevingsregeling. 
+Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, softwareleveranciers, CVGG en de omgevingsregeling. 
 
 De eerste opzet in het **IMG beheeroverleg** wordt, afhankelijk van de classificering (X, Y of Z), achtereenvolgend getoetst in de  **IMG werkgroep**, **IMG adviesgroep** & **Stuurgroep CVGG**. Opmerkingen ten aanzien van de impactanalyse worden in het uiteindelijke wijzigingsvoorstel verwerkt. 
 

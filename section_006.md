@@ -23,7 +23,7 @@ De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de
 
 <b>Coördinatie</b>
 
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever.
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de opdrachtgever. 
 
 <b>Communicatie met het werkveld</b>
 
