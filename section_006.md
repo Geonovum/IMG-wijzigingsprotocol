@@ -23,7 +23,7 @@ De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de
 
 <b>Coördinatie</b>
 
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter van het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever.
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de opdrachtgever. 
 
 <b>Communicatie met het werkveld</b>
 
@@ -40,7 +40,7 @@ Het garanderen van het serieus nemen van klachten kan alleen door deze volgens e
 
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. Het beheer van de betreffende standaard neemt de klacht in behandeling en neemt de klacht op als wijzigingsverzoek en niet als klacht. 
 
-In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de IMG standaard en betreft de klacht niet de inhoud, de standaard zelf. De indiener is van mening dat het beheerteam van de IMG standaard, dan wel een beheerder het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de opdrachtgever van het beheer van de IMG standaard. 
+In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de IMG standaard en betreft de klacht niet de inhoud, de standaard zelf. De indiener is van mening dat het beheerteam van de IMG standaard, dan wel een beheerder het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de opdrachtgever. 
 
 Het indienen van klachten loopt in principe via de **IMG Helpdesk**. De helpdesk zet de klacht daarop door aan de opdrachtgever. 
 
