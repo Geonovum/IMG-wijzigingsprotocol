@@ -43,7 +43,7 @@ Wijzigingen in het informatiemodel Geluid worden bekendgemaakt op de <a href='ht
 
 <i>CVGG Nieuwsbrief</i>
 
-Wijzigingen in het informatiemodel Geluid worden bekendgemaakt op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>website</a> en in de nieuwsbrief van de CVGG.
+Wijzigingen in het informatiemodel Geluid worden bekendgemaakt in de nieuwsbrief van de CVGG.
 
 <i>Publieke consultatie</i>
 
