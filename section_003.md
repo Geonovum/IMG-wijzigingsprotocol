@@ -43,38 +43,34 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 **Processtappen**
 
-De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie ook figuur 2): 
+De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie figuur 2): 
 
 1. Met een ‘melding’ begint het wijzigingsproces. Doorgaans zal de gebruiker van het informatiemodel een eis of wens indienen, maar het kan ook het functioneel of technisch beheer zijn in sommige gevallen (bijv. wanneer een onderliggende standaard is bijgesteld). Er zijn meerdere ‘triggers’, die kunnen leiden tot het indienen van een wijzigingsverzoek. Eisen en wensen, die kunnen leiden tot wijzigingen in het informatiemodel Geluid kunnen ontstaan ten gevolge van de volgende triggers: 
 
--   Aanpassing van business doelen van de opdrachtgever;
--   Nieuwe of aangepaste wetgeving;
--   Aanpassing van aspecten van (onderliggende) standaarden;
--   Gewijzigde gebruikerswensen;
--   Wijzigingen in technische voorzieningen;
--   Wijzigingen in systemen waar mee gekoppeld wordt;
--   Het herstellen van fouten/bugs;
--   Het voor zijn van het optreden van fouten (preventief).
+    -   Aanpassing van business doelen van de opdrachtgever;
+    -   Nieuwe of aangepaste wetgeving;
+    -   Aanpassing van aspecten van (onderliggende) standaarden;
+    -   Gewijzigde gebruikerswensen;
+    -   Wijzigingen in technische voorzieningen;
+    -   Wijzigingen in systemen waar mee gekoppeld wordt;
+    -   Het herstellen van fouten/bugs;
+    -   Het voor zijn van het optreden van fouten (preventief).
 
-De bovengenoemde aanleidingen kunnen leiden tot wijzigingsverzoeken in het informatiemodel Geluid, waarmee het wijzigingsproces in gang kan worden gezet. In het algemeen worden 4 typen meldingen onderscheiden:
+    De bovengenoemde aanleidingen kunnen leiden tot wijzigingsverzoeken in het informatiemodel Geluid, waarmee het wijzigingsproces in gang kan worden gezet. In het algemeen worden 4 typen meldingen onderscheiden:
 
--   Een vraag;
--   Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;
--   Een incident;
--   Een klacht.
+    -   Een vraag;
+    -   Een wijzigingsverzoek n.a.v. een verbetering of fout/bug;
+    -   Een incident;
+    -   Een klacht.
 
-De melding wordt per mail gestuurd aan de <a href='mailto:img@geonovum.nl' target='_blank'>IMG Helpdesk</a>. Bij het aanmelden van meerdere wijzigingsverzoeken, geldt dat voor elk wijzigingsverzoek een aparte mail gestuurd moet worden.
+    De melding wordt per mail gestuurd aan de <a href='mailto:img@geonovum.nl' target='_blank'>IMG Helpdesk</a>. Bij het aanmelden van meerdere wijzigingsverzoeken, geldt dat voor elk wijzigingsverzoek een aparte mail gestuurd moet worden.
 
 2. De **IMG helpdesk** registreert het wijzigingsverzoek in het meldingen systeem. De helpdesk (technisch beheer) beoordeelt het wijzigingsverzoek. De helpdesk is de actiehouder van de melding en controleert of de melding volledig en helder is. Bij een fout onderzoekt de helpdesk of dit inderdaad het geval is. Ook kan de helpdesk verder informatie opvragen bij de indiener van de melding. Ook wordt gecontroleerd of de melding geen duplicaat van een reeds ingevoerde melding. Indien de melding helder is beschreven, en het betreft een wens voor het aanpassen van de standaard of een gevonden fout, dan kan melding worden erkend en wordt de melding formeel opgenomen in het meldingen systeem (Jira). Indien de melding de niet erkend wordt, zal de helpdesk via de mail contact opnemen met de indiener om de melding verder af te stemmen.   
 
 3. De binnengekomen meldingen wordt besproken in het **IMG beheeroverleg**, het overleg tussen functioneel en technisch beheer van het IMG. Het **IMG beheeroverleg** stelt op basis van de binnengekomen heldpdesk meldingen een lijst op met potentiële wijzigingsverzoeken. De lijst met wijzigingsverzoeken wordt pas gemaakt als overeengekomen wordt, dat de binnen gekomen wijzigingsverzoeken naar een nieuwe release van de IMG standaard kan leiden. Tot dan is er alleen de registratie in het meldingen systeem (Jira) en op <a href='(https://github.com/Geonovum/IMG/issues)' target='_blank'>Github</a>. Tevens wordt in deze stap door het beheer een eerste impactanalyse uitgevoerd voor de wijzigingsverzoeken. Dit werk voert het technisch beheer van IMG uit in samenwerking met het functioneel beheer van het IMG. De impactanalyse betreft de impact van de wijziging van de standaard op de gebruikers en de door hen gebruikte software, waaronder ook de CVGG. De resultaten van de impactanalyse worden gecommuniceerd op de <a href='(https://github.com/Geonovum/IMG/issues)' target='_blank'>Github</a>. 
 Indien een melding wordt afgewezen – dus niet in de lijst met wijzigingsverzoeken wordt opgenomen – wordt door de **IMG helpdesk** een bericht met de verklaring van de afwijzing van de melding aan de indiener gestuurd. 
 
-<<<<<<< HEAD
-4. Indien het functioneel beheer het nodig acht om te komen tot een wijzigingsvoorstel voor de IMG standaard, wordt een **IMG werkgroep** in het leven geroepen bestaande uit m.n. deskundigen (experts) en belangrijke stakeholders en het beheer. Zij stellen evt. de impactanalyse van wijzigingsverzoeken bij en bepalen wat voor soort wijziging (X, Y of Z) aan de orde is. De werkgroep levert een wijzigingsvoorstel voor een nieuwe versie van de IMG standaard op voor de **IMG adviesgroep** in geval van een X of Y-wijziging. Dit is doorgaans ook het moment dat de registratie van de wijzigingsverzoeken ook breder gedeeld wordt en worden op de 'Wensen en Eisen LijsT' (WELT genaamd). Voordat een wijzigingsvoorstel naar de **IMG adviesgroep** gaat, wordt WELT bijgewerkt op basis van de laatste inzichten vanuit de besprekingen met de **IMG werkgroep**.  Publicatie van de wijzigingsverzoeken (uitgewerkt naar Aanleiding, Voorgestelde wijziging, Impact) op de <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>WELT website</a> is toegankelijker en minder technisch van aard dan publicatie van de wijzigingsverzoeken op Github dat door de deskundigen en het beheer wordt ingezet in de **IMG werkgroep**.
-=======
-4. Indien het functioneel beheer het nodig acht om te komen tot een wijzigingsvoorstel voor de IMG standaard, wordt een **IMG werkgroep** in het leven geroepen bestaande uit m.n. deskundigen (experts) en belangrijke stakeholders en het beheer. Zij stellen evt. de impactanalyse van wijzigingsverzoeken bij en bepalen wat voor soort wijziging (X, Y of Z) aan de orde is. De uitnodiging voor de werkgroep wordt gedeeld met alle leden van de adviesgroep. De werkgroep levert een wijzigingsvoorstel voor een nieuwe versie van de IMG standaard op voor de **IMG adviesgroep** in geval van een X of Y-wijziging. Dit is doorgaans ook het moment dat de registratie van de wijzigingsverzoeken ook breder gedeeld wordt en worden op de <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>website</a> met de 'Wensen en Eisen LijsT' (WELT genaamd) geplaatst. Voordat een wijzigingsvoorstel naar de adviesgroep gaat, moet WELT bijgewerkt zijn op basis van de laatste inzichten vanuit de besprekingen met de werkgroep.  Publicatie van de wijzigingsverzoeken (uitgewerkt naar Aanleiding, Voorgestelde wijziging, Impact) op de WELT <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>website</a> is toegankelijker en minder technisch van aard dan publicatie van de wijzigingsverzoeken op Github dat door de deskundigen en het beheer wordt ingezet in de werkgroep.
->>>>>>> cb8290419ba17c688c77d802a123aeac0e818a4f
+4. Indien het functioneel beheer het nodig acht om te komen tot een wijzigingsvoorstel voor de IMG standaard, wordt een **IMG werkgroep** in het leven geroepen bestaande uit m.n. deskundigen (experts) en belangrijke stakeholders en het beheer. Zij stellen evt. de impactanalyse van wijzigingsverzoeken bij en bepalen wat voor soort wijziging (X, Y of Z) aan de orde is. De uitnodiging voor de **IMG werkgroep** wordt gedeeld met alle leden van de **IMG adviesgroep**. De **IMG werkgroep** levert een wijzigingsvoorstel voor een nieuwe versie van de IMG standaard op voor de **IMG adviesgroep** in geval van een X of Y-wijziging. Dit is doorgaans ook het moment dat de registratie van de wijzigingsverzoeken ook breder gedeeld wordt en worden op de 'Wensen en Eisen LijsT' (WELT genaamd). Voordat een wijzigingsvoorstel naar de **IMG adviesgroep** gaat, wordt WELT bijgewerkt op basis van de laatste inzichten vanuit de besprekingen met de **IMG werkgroep**.  Publicatie van de wijzigingsverzoeken (uitgewerkt naar Aanleiding, Voorgestelde wijziging, Impact) op de <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>WELT website</a> is toegankelijker en minder technisch van aard dan publicatie van de wijzigingsverzoeken op Github dat door de deskundigen en het beheer wordt ingezet in de **IMG werkgroep**.
 
 5. Indien het wijzigingsvoorstel enkel Z-wijziging(en) betreft, neemt het **IMG beheeroverleg** een besluit en gaat (al dan niet) over tot implementatie van de Z-wijziging.
 
