@@ -84,36 +84,6 @@ De implementatiefase van X wijzigingen wijkt af van die van Y wijzigingen, de im
 
 In overleg met het functioneel beheer worden Z wijzigingen in de volgende release opgenomen. De inhoudelijke fase wordt door het technisch beheer van de standaard uitgevoerd. Besluitvorming vindt plaats in afstemming met de functioneel beheer. Implementatie vindt plaats door het publiceren van de wijziging op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>website</a>.
 
-### <a name='_Ref503261432'></a>Fasen en resultaten
-
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1<a></a>.
-
-<figure style="width: 35%;">
-
-<a name='_Ref503260625'></a><img src="media/image3.png" alt="media/image3.png"/></img>
-
-<figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption>
-
-</figure>
-
-<b>Inhoud</b>
-
-In de fase inhoud wordt voor ieder wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. Dit wordt door de Helpdesk intern vastgelegd en is raadpleegbaar via de <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>website</a>. Voor ieder wijzigingsverzoek dat wordt meegenomen in de nieuwe versie van de standaard, wordt een impactanalyse uitgevoerd en oplossingen uitgewerkt. Deze impactanalyse beoordeelt tot welke SemVer categorie de wijziging hoort, welke betrokken partijen geraakt worden door de wijziging en wat de secundaire effecten van de wijziging zijn (e.g. er ontstaan extra validatieregels in de CVGG). 
-
-Wanneer tijdens de impactanalyse is vastgesteld dat het om een X of Y wijzigingverzoek gaat, wordt een werkgroep ingepland met de deskundigen en stakeholders (indieners van het wijzigingsverzoek). Afhankelijk van de omvang van de wijziging ten opzichte van de voorgaande versie en afhankelijk van welke gebruikersgroepen geraakt worden door de wijziging, verandert de samenstelling van deze werkgroep. De uitnodiging voor de werkgroep wordt verstuurd naar alle leden van de adviesgroep. De werkgroep wordt vooraf geïnformeerd over het wijzigingsvoorstel en indien mogelijk wordt een eerste probleemschets en oplossing aangedragen voorafgaand aan de werkgroep door het technisch beheer. De resultaten van de werkgroep worden in een wijzigingsvoorstel voorgelegd aan de adviesgroep.
-
-<b>Toetsing</b>
-
-De fase Toetsing vormt een brug tussen de inhoud en besluitvorming. In deze fase wordt wordt voor een X of Y wijziging door de adviesgroep het wijzigingsvoorstel getoetst en van een advies voorzien voor besluitvorming. Met deze consultatie vragen wij de gebruikers van de standaard actief hun reactie te geven op het wijzigingsvoorstel. Het wijzigingsvoorstel inclusief de terugkoppeling uit de consultatie wordt verwerkt als release candidate van het Informatiemodel Geluid.
-
-<b>Besluitvorming</b>
-
-Bij Besluitvorming wordt besloten om de gewijzigde IMG  standaard vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten<a></a>), besluit de voorzitter van de stuurgroep CVGG dan wel het beheeroverleg.
-
-<b>Implementatie</b>
-
-Het in gebruik nemen van de nieuwe IMG standaard in de praktijk staat centraal in deze fase. Hiervoor levert het beheer verschillende technische bestanden op. De technische bestanden zijn bijvoorbeeld testbestanden. Deze bestanden ondersteunen bij de implementatie van de standaard in de software. Beheerders van de CVGG nemen het niuewe informatiemodel Geluid in gebruik. Het functioneel en technisch beheer ondersteunt de implementatie bovendien door de werking van het informatiemodel toe te lichten tijdens bijvoorbeeld bijeenkomsten of 'inloopspreekuren' voor de gebruikers en software leveranciers. Resultaat van deze fase is dat de gebruikers geluidsgegevens kunnen maken en uitwisselen conform de nieuwe IMG standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
-
 ### Betrokkenen
 
 De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informatiemodel Geluid:
