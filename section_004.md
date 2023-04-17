@@ -1,22 +1,3 @@
-## Impactanalyse
-
-Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het IMG. Bij het opstellen van een wijzigingsvoorstel is het van belang om alle gevolgen van een wijziging in kaart te hebben gebracht ter ondersteuning van de implementatie van de wijziging. Deze inventarisatie vindt plaats tijdens de impactanalyse. In het **IMG beheeroverleg** wordt een opzet voor de impactanalyse van wijzigingsverzoeken gemaakt. Hierbij worden de volgende gegevens van het wijzigingsverzoek geïnventariseerd:
-
-|    <br>Categorie                                                                                                                                                                        |    <br>Uitleg                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-|    <br>**Betrokken partijen**  | <br>Wie gaat er wat van merken? |
-|    <br>**Heraanlevering noodzakelijk**  |    <br> Veranderen definities van objecten in de standaard zodanig dat de wijziging impact heeft op de uit te wisselen gegevens? |
-|    <br>**Schemawijziging**  |    <br> Welke impact heeft het verzoek/voorstel op het xml-schema?                                                   |
-|    <br>**Schemavalidatie**  |    <br>Is het backward compatible in de zin van validatie op het schema? waarom?     |
-|    <br>**Wijziging validatieregels**    |    <br>Welke impact heeft het verzoek/voorstel op de validatieregels van de CVGG?     |
-|    <br>**Wijziging omgevingsregeling**  |    <br>Welke impact heeft het verzoek/voorstel op de omgevingsregeling?                                                           |
-|    <br>**Classificering (X/Y/Z)** |    <br> Gaat het om een X, Y, of Z wijziging?                                          |
-
-Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, softwareleveranciers, CVGG en de omgevingsregeling. 
-
-De eerste opzet in het **IMG beheeroverleg** wordt, afhankelijk van de classificering (X, Y of Z), achtereenvolgend getoetst in de  **IMG werkgroep**, **IMG adviesgroep** & **Stuurgroep CVGG**. Opmerkingen ten aanzien van de impactanalyse worden in het uiteindelijke wijzigingsvoorstel verwerkt. 
-
-
 ## Tussentijdse werkafspraken
 
 Het toepassen van het informatiemodel Geluid roept soms vragen op. Bij onduidelijkheden, discrepanties of fouten in de standaard kunnen in de  praktijk vragen ontstaan over hoe de standaard – in afwachting van een formele wijziging– toe te passen. Met name bij een X wijziging van de standaard, die een grote impact op toepassing in de praktijk heeft, zullen geconstateerde fouten of gewenste wijzigingen in de regel niet heel snel worden doorgevoerd. Een tussentijds gebruiksadvies wordt dan opgesteld in de vorm van een <i>tussentijdse werkafspraak</i>. In dit hoofdstuk wordt het maken van   werkafspraken toegelicht.
