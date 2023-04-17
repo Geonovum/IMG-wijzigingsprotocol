@@ -72,7 +72,7 @@ Indien een melding wordt afgewezen – dus niet in de lijst met wijzigingsverzoe
 
 <aside class="note">Impactanalyse
 
-Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het IMG. Bij het opstellen van een wijzigingsvoorstel is het van belang om alle gevolgen van een wijziging in kaart te hebben gebracht ter ondersteuning van de implementatie van de wijziging. Deze inventarisatie vindt plaats tijdens de impactanalyse. In het **IMG beheeroverleg** wordt een opzet voor de impactanalyse van wijzigingsverzoeken gemaakt. Hierbij worden de volgende gegevens van het wijzigingsverzoek geïnventariseerd:
+Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het IMG. Bij het opstellen van een wijzigingsvoorstel is het van belang om alle gevolgen van een wijziging in kaart te hebben gebracht ter ondersteuning van de implementatie van de wijziging. Deze inventarisatie vindt plaats tijdens de impactanalyse. Hierbij worden de volgende gegevens van het wijzigingsverzoek geïnventariseerd:
 
 |    <br>Categorie                                                                                                                                                                        |    <br>Uitleg                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -84,9 +84,9 @@ Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het 
 |    <br>**Wijziging omgevingsregeling**  |    <br>Welke impact heeft het verzoek/voorstel op de omgevingsregeling?                                                           |
 |    <br>**Classificering (X/Y/Z)** |    <br> Gaat het om een X, Y, of Z wijziging?                                          |
 
-Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, softwareleveranciers, CVGG en de omgevingsregeling. 
+Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, software leveranciers, CVGG en de omgevingsregeling. 
 
-De eerste opzet in het **IMG beheeroverleg** wordt, afhankelijk van de classificering (X, Y of Z), achtereenvolgend uitgewerkt en afgestemd in de  **IMG werkgroep** en ter toetsing voorgelegd aan de **IMG adviesgroep**. </aside>
+</aside>
 
 4. Indien het functioneel beheer het nodig acht om te komen tot een wijzigingsvoorstel voor de IMG standaard, wordt een **IMG werkgroep** in het leven geroepen bestaande uit m.n. deskundigen (experts) en belangrijke stakeholders en het beheer. Zij stellen evt. de impactanalyse van wijzigingsverzoeken bij en bepalen wat voor soort wijziging (X, Y of Z) aan de orde is. De uitnodiging voor de **IMG werkgroep** wordt gedeeld met alle leden van de **IMG adviesgroep**. De **IMG werkgroep** levert een wijzigingsvoorstel voor een nieuwe versie van de IMG standaard op voor de **IMG adviesgroep** in geval van een X of Y-wijziging. Dit is doorgaans ook het moment dat de registratie van de wijzigingsverzoeken ook breder gedeeld wordt en worden op de 'Wensen en Eisen LijsT' (WELT genaamd). Voordat een wijzigingsvoorstel naar de **IMG adviesgroep** gaat, wordt WELT bijgewerkt op basis van de laatste inzichten vanuit de besprekingen met de **IMG werkgroep**.  Publicatie van de wijzigingsverzoeken (uitgewerkt naar Aanleiding, Voorgestelde wijziging, Impact) op de <a href='(https://www.geonovum.nl/geo-standaarden/meldingen)' target='_blank'>WELT website</a> is toegankelijker en minder technisch van aard dan publicatie van de wijzigingsverzoeken op Github dat door de deskundigen en het beheer wordt ingezet in de **IMG werkgroep**.
 
