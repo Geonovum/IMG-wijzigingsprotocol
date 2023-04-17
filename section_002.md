@@ -34,13 +34,13 @@ Frequentie</u>: in overleg met de opdrachtgever.</li>
 
 <ul>
 
-<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die geen heraanlevering van gegevens vragen. Bijvoorbeeld het toevoegen van optioneel objecttype of  attribuut. Of bijvoorbeeld als een attribuut een nieuwe naam krijgt. Dan is geen heraanlevering nodig. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
+<li><b>Y-wijzigingen</b> Dit zijn wijzigingen die geen heraanlevering van gegevens vragen. Bijvoorbeeld het toevoegen van optioneel objecttype of  attribuut. Of bijvoorbeeld als een attribuut een nieuwe naam krijgt die automatisch afleidbaar is. Dan is geen heraanlevering nodig. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
 
 </ul>
 
 <ul>
 
-<li><b>Z-wijzigingen</b> Dit zijn bugs/fouten in een definitie of toelichting, die geen impact hebben op de aan te leveren gegevens. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.</li>
+<li><b>Z-wijzigingen</b> Dit zijn bugs/fouten of aanvullingen in een definitie of toelichting, die geen impact hebben op de aan te leveren gegevens. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.</li>
 
 </ul>
 
