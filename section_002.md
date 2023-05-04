@@ -90,10 +90,8 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informati
 
 |    <br>Rol                                                                                                                                                                        |    <br>Stakeholder                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-|    <br>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | <br>Ministerie van Infrastructuur en Waterstaat |
-|    <br>**Bronhouder** m.b.t. geluidgegevens voor rijkswegen, hoofdspoorwegen, luchthavens met nationale betekenis.   |    <br>Rijksoverheden (Rijkswaterstaat, ProRail, NLR)               |
-|    <br>**Bronhouder** m.b.t. geluidgegevens over provinciale wegen, luchthavens van regionale betekenis en lokale spoorwegen met een verkeersintensiteit van meer dan 30.000 treinen per jaar.    |    <br>Provincies                                                   |
-|    <br>**Bronhouder** van geluidgegevens t.b.v. voor lokale wegen, activiteiten, verzamelingen van activiteiten.                                                                                    |    <br>Agglomeratie-gemeenten, omgevingsdiensten, waterschappen     |
-|    <br>**Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG.  |    <br>Rijksinstituut voor Volksgezondheid en Milieu (RIVM)         |
-|    <br>**Technisch beheer** van het informatiemodel Geluid.                                                                                                                                           |    <br>Geonovum                                                     |
-|    <br>**Software leverancier** levert de software voor de bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid.                                                     |    <br>Software bedrijven                                           |
+|    <br>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | <br>Ministerie van Infrastructuur en Waterstaat (IenW) |
+|    <br>**Bronhouder** van geluidgegevens  |  <br>Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen |
+|    <br>**Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG.  | <br>Rijksinstituut voor Volksgezondheid en Milieu (RIVM)  |
+|    <br>**Technisch beheer** van het informatiemodell Geluid. |    <br>Geonovum  |
+|    <br>**Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid.  |  <br>Software bedrijven |
