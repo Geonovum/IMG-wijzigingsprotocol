@@ -37,7 +37,7 @@ Het in gebruik nemen van de nieuwe IMG standaard in de praktijk staat centraal i
 De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Het wijzigingsproces dat dit wijzigingsvoorstel doorloopt bestaat uit tien stappen, die in onderstaande Figuur 2 in onderlinge samenhang zijn weergegeven. In deze figuur zijn processen, besluiten en de relevante actoren en actorgroepen en hun interacties opgenomen. Iedere processtap is vervolgens kort beschreven.
 
 <figure id="Figuur_x">
-<img src="media/image8.svg" alt="">
+<img src="media/image9.svg" alt="">
 <figcaption>Processchema wijzigingsbeheer IM Geluid</figcaption>
 </figure>
 
