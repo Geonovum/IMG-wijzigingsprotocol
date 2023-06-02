@@ -88,10 +88,10 @@ In overleg met het functioneel beheer worden Z wijzigingen in de volgende releas
 
 De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informatiemodel Geluid:
 
-|    <br>Rol                                                                                                                                                                        |    <br>Stakeholder                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-|    <br>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | <br>Ministerie van Infrastructuur en Waterstaat (IenW) |
-|    <br>**Bronhouder** van geluidgegevens  |  <br>Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen |
-|    <br>**Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG.  | <br>Rijksinstituut voor Volksgezondheid en Milieu (RIVM)  |
-|    <br>**Technisch beheer** van het informatiemodell Geluid. |    <br>Geonovum  |
-|    <br>**Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid.  |  <br>Software bedrijven |
+| **Rol**  | **Stakeholder** |
+| ---------|-----------------|
+| **Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | Ministerie van Infrastructuur en Waterstaat (IenW) |
+| **Bronhouder** van geluidgegevens  | Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen |
+| **Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG.  | Rijksinstituut voor Volksgezondheid en Milieu (RIVM)  |
+| **Technisch beheer** van het informatiemodel Geluid. | Geonovum  |
+| **Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid.  |  Software bedrijven |
