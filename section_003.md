@@ -41,6 +41,11 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 <figcaption>Processchema wijzigingsbeheer IM Geluid</figcaption>
 </figure>
 
+<figure id="Figuur_x"> 
+<a href="media/image9.svg" target="_blank"><img src="media/image9.svg" alt=""></a>
+<figcaption>Processchema wijzigingsbeheer IM Geluid</figcaption>
+</figure>
+
 **Processtappen**
 
 De volgende processtappen worden doorlopen om te komen tot wijzigingen in de IMG standaard (zie figuur 2): 
