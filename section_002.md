@@ -88,6 +88,42 @@ In overleg met het functioneel beheer worden Z wijzigingen in de volgende releas
 
 De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informatiemodel Geluid:
 
+<table>
+  <colgroup>
+  <col style="width: 33%;">
+  <col style="width: 67%;">
+   </colgroup>
+  <thead>
+    <tr>
+      <th>Rol </th>
+      <th>Stakeholder </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. </td>
+      <td>Ministerie van Infrastructuur en Waterstaat (IenW) </td>
+     </tr>
+    <tr>
+      <td>**Bronhouder** van geluidgegevens </td>
+      <td>Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen </td>
+     </tr>
+    <tr>
+      <td>**Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG </td>
+      <td>Rijksinstituut voor Volksgezondheid en Milieu (RIVM) </td>
+     </tr>
+    <tr>
+      <td>**Technisch beheer** van het informatiemodel Geluid  </td>
+      <td>Geonovum </td>
+     </tr>
+    <tr>
+      <td>**Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid </td>
+      <td>Software bedrijven  </td>
+     </tr>
+  </tbody>
+</table>
+
+
 | **Rol**  | **Stakeholder** |
 | ---------|-----------------|
 | **Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | Ministerie van Infrastructuur en Waterstaat (IenW) |
