@@ -101,33 +101,24 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informati
   </thead>
   <tbody>
     <tr>
-      <td>**Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. </td>
+      <td><b>Opdrachtgever<b> (eigenaar) van het CVGG en het informatiemodel Geluid. </td>
       <td>Ministerie van Infrastructuur en Waterstaat (IenW) </td>
      </tr>
     <tr>
-      <td>**Bronhouder** van geluidgegevens </td>
+      <td><b>Bronhouder<b> van geluidgegevens </td>
       <td>Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen </td>
      </tr>
     <tr>
-      <td>**Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG </td>
+      <td><b>Functioneel beheer<b> van het informatiemodel Geluid en beheer van het CVGG </td>
       <td>Rijksinstituut voor Volksgezondheid en Milieu (RIVM) </td>
      </tr>
     <tr>
-      <td>**Technisch beheer** van het informatiemodel Geluid  </td>
+      <td><b>Technisch beheer<b> van het informatiemodel Geluid  </td>
       <td>Geonovum </td>
      </tr>
     <tr>
-      <td>**Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid </td>
-      <td>Software bedrijven  </td>
+      <td><b>Software leverancier<b> levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid </td>
+      <td>Software bedrijven </td>
      </tr>
   </tbody>
 </table>
-
-
-| **Rol**  | **Stakeholder** |
-| ---------|-----------------|
-| **Opdrachtgever** (eigenaar) van het CVGG en het informatiemodel Geluid. | Ministerie van Infrastructuur en Waterstaat (IenW) |
-| **Bronhouder** van geluidgegevens  | Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen |
-| **Functioneel beheer** van het informatiemodel Geluid en beheer van het CVGG.  | Rijksinstituut voor Volksgezondheid en Milieu (RIVM)  |
-| **Technisch beheer** van het informatiemodel Geluid. | Geonovum  |
-| **Software leverancier** levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid.  |  Software bedrijven |
