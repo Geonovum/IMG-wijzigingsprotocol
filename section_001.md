@@ -23,43 +23,43 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
   </thead>
   <tbody>
     <tr>
-      <td>Centrale Voorziening Geluidgegevens (CVGG) </td>
+      <td><b>Centrale Voorziening Geluidgegevens (CVGG)<b> </td>
       <td>Het Rijk, provincies, gemeenten en waterschappen moeten verplicht conform de Omgevingswet geluidgegevens aanleveren aan de Centrale Voorziening Geluidgegevens (CVGG). De CVGG is het digitale systeem dat de geluidgegevens verzamelt. </td>
      </tr>
     <tr>
-      <td>Informatiemodel Geluid (IMG) </td>
+      <td><b>Informatiemodel Geluid (IMG)<b> </td>
       <td>Het Informatiemodel Geluid (IMG) beschrijft het informatiemodel voor de gegevensuitwisseling met de Centrale Voorziening Geluidgegevens en andere gebruikers. </td>
      </tr>
     <tr>
-      <td>Stuurgroep CVGG </td>
+      <td><b>Stuurgroep CVGG<b> </td>
       <td>De Stuurgroep Centrale Voorziening Geluidgegevens bestaat uit vertegenwoordigers van de verschillende gebruikersgroepen van de CVGG. Het ministerie van IenW, de opdrachtgever voor het beheer van de CVGG, zit de stuurgroep voor. De opdrachtgever stemt de koers van het beheer CVGG via de stuurgroep CVGG af. De voorzitter van de stuurgroep CVGG stelt tevens een nieuwe versie van de IMG standaard vast, nadat de adviesgroep een advies over een wijzigingsvoorstel in de stuurgroep CVGG heeft ingebracht. </td>
      </tr>
     <tr>
-      <td>Adviesgroep </td>
+      <td><b>Adviesgroep<b> </td>
       <td>De adviesgroep brengt advies uit aan de stuurgroep CVGG over een wijzigingsvoorstel. De adviesgroep bestaat uit vertegenwoordigers van de gebruikers, deskundigen, stakeholders en de beheerder van het informatiemodel. </td>
      </tr>
     <tr>
-      <td>Werkgroep </td>
+      <td><b>Werkgroep<b> </td>
       <td>Een werkgroep bestaande uit deskundigen (en belangrijke stakeholders) en de beheerders van het informatiemodel Geluid. De (ad hoc) werkgroep stelt een wijzigingsvoorstel op, dat ter toetsing aan de Adviesgroep wordt voorgelegd. </td>
      </tr>
     <tr>
-      <td>Beheeroverleg </td>
+      <td><b>Beheeroverleg<b> </td>
       <td>Het overleg tussen functioneel beheerder en technische beheerder van het informatiemodel Geluid. </td>
      </tr>
     <tr>
-      <td>Wijzigingsprotocol </td>
+      <td><b>Wijzigingsprotocol<b> </td>
       <td>Hiermee wordt het geheel van vastgelegde regels en afspraken voor het wijzigen van de standaard vastgelegd. </td>
      </tr>
     <tr>
-      <td>Wijzigingsproces </td>
+      <td><b>Wijzigingsproces<b> </td>
       <td>Het wijzigingsproces is de daadwerkelijke wijziging van het IMG op een bepaald moment. Het volledige wijzigingsproces doorloopt de fasen van het wijzigingsprotocol met een datum van inwerkingtreding van de nieuwe versie van het IMG. </td>
      </tr>
     <tr>
-      <td>Wijzigingsverzoek </td>
+      <td><b>Wijzigingsverzoek<b> </td>
       <td>Wijzigingsverzoeken zijn wensen voor aanpassing van de standaard. Een wijzigingsverzoek doorloopt het wijzigingsproces en kan leiden tot een Wijzigingsvoorstel. </td>
      </tr>
     <tr>
-      <td>Wijzigingsvoorstel </td>
+      <td><b>Wijzigingsvoorstel<b> </td>
       <td>In het wijzigingsproces worden meerdere wijzigingsverzoeken meegenomen en gebundeld tot één wijzigingsvoorstel voor het wijzigen van de IMG standaard. </td>
      </tr>
   </tbody>
