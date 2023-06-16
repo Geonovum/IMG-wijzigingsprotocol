@@ -88,7 +88,7 @@ Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het 
   </thead>
   <tbody>
     <tr>
-      <td>**Betrokken partijen** </td>
+      <td> <b> Betrokken partijen <b> </td>
       <td>Wie gaat er wat van merken? </td>
      </tr>
     <tr>
