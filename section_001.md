@@ -12,8 +12,8 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 
 <table>
   <colgroup>
-  <col style="width: 40%;">
-  <col style="width: 60%;">
+  <col style="width: 33%;">
+  <col style="width: 67%;">
    </colgroup>
   <thead>
     <tr>
@@ -64,18 +64,3 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
      </tr>
   </tbody>
 </table>
-
-
-|                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **CVGG**  | Het Rijk, provincies, gemeenten en waterschappen moeten verplicht conform de Omgevingswet geluidgegevens aanleveren aan de Centrale Voorziening Geluidgegevens (CVGG). De CVGG is het digitale systeem dat de geluidgegevens verzamelt. |
-| **IMG**                | Het Informatiemodel Geluid (IMG) beschrijft het informatiemodel voor de gegevensuitwisseling met de Centrale Voorziening Geluidgegevens en andere gebruikers.   |                     
-| **Stuurgroep CVGG**    | De Stuurgroep Centrale Voorziening Geluidgegevens bestaat uit vertegenwoordigers van de verschillende gebruikersgroepen van de CVGG. Het ministerie van IenW, de opdrachtgever voor het beheer van de CVGG, zit de stuurgroep voor. De opdrachtgever stemt de koers van het beheer CVGG via de stuurgroep CVGG af. De voorzitter van de stuurgroep CVGG stelt tevens een nieuwe versie van de IMG standaard vast, nadat de adviesgroep een advies over een wijzigingsvoorstel in de stuurgroep CVGG heeft ingebracht. |
-| **Adviesgroep**        |  De adviesgroep brengt advies uit aan de stuurgroep CVGG over een wijzigingsvoorstel. De adviesgroep bestaat uit vertegenwoordigers van de gebruikers, deskundigen, stakeholders en de beheerder van het informatiemodel.    |
-| **Werkgroep**      | Een werkgroep bestaande uit deskundigen (en belangrijke stakeholders) en de beheerders van het informatiemodel Geluid. De (ad hoc) werkgroep stelt een wijzigingsvoorstel op, dat ter toetsing aan de Adviesgroep wordt voorgelegd. |
-| **Beheeroverleg**      | Het overleg tussen functioneel beheerder en technische beheerder van het informatiemodel Geluid. |
-| **Wijzigingsprotocol** | Hiermee wordt het geheel van vastgelegde regels en afspraken voor het wijzigen van de standaard vastgelegd.   |
-| **Wijzigingsproces**   | Het wijzigingsproces is de daadwerkelijke wijziging van het IMG op een bepaald moment. Het volledige wijzigingsproces doorloopt de fasen van het wijzigingsprotocol met een datum van inwerkingtreding van de nieuwe versie van het IMG.  |
-| **Wijzigingsverzoek**  | Wijzigingsverzoeken zijn wensen voor aanpassing van de standaard. Een wijzigingsverzoek doorloopt het wijzigingsproces en kan leiden tot een Wijzigingsvoorstel. |
-| **Wijzigingsvoorstel** | In het wijzigingsproces worden meerdere wijzigingsverzoeken meegenomen en gebundeld tot één wijzigingsvoorstel voor het wijzigen van de IMG standaard. 
-|
