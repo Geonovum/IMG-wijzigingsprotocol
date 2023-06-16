@@ -92,41 +92,30 @@ Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het 
       <td>Wie gaat er wat van merken? </td>
      </tr>
     <tr>
-      <td>**Heraanlevering noodzakelijk** </td>
+      <td><b>Heraanlevering noodzakelijk<b> </td>
       <td>Veranderen definities van objecten in de standaard zodanig dat de wijziging impact heeft op de uit te wisselen gegevens? </td>
      </tr>
     <tr>
-      <td>**Schemawijziging** </td>
+      <td><b>Schemawijziging<b> </td>
       <td>Welke impact heeft het verzoek/voorstel op het xml-schema? </td>
      </tr>
     <tr>
-      <td>**Schemavalidatie** </td>
+      <td><b>Schemavalidatie<b> </td>
       <td>Is het backward compatible in de zin van validatie op het schema? waarom? </td>
      </tr>
     <tr>
-      <td>**Wijziging validatieregels** </td>
+      <td><b>Wijziging validatieregels<b> </td>
       <td>Welke impact heeft het verzoek/voorstel op de validatieregels van de CVGG? </td>
      <tr>
     <tr>
-      <td>**Wijziging omgevingsregeling** </td>
+      <td><b>Wijziging omgevingsregeling<b> </td>
       <td>Welke impact heeft het verzoek/voorstel op de omgevingsregeling? </td>
     </tr>
-      <td>**Classificering (X/Y/Z)** </td>
+      <td><b>Classificering (X/Y/Z)<b> </td>
       <td>Gaat het om een X, Y, of Z wijziging? </td>
       </tr>
   </tbody>
 </table>
-
-
-|    <br>Categorie                                                                                                                                                                        |    <br>Uitleg                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-|    <br>**Betrokken partijen**  | <br>Wie gaat er wat van merken? |
-|    <br>**Heraanlevering noodzakelijk**  |    <br> Veranderen definities van objecten in de standaard zodanig dat de wijziging impact heeft op de uit te wisselen gegevens? |
-|    <br>**Schemawijziging**  |    <br> Welke impact heeft het verzoek/voorstel op het xml-schema?                                                   |
-|    <br>**Schemavalidatie**  |    <br>Is het backward compatible in de zin van validatie op het schema? waarom?     |
-|    <br>**Wijziging validatieregels**    |    <br>Welke impact heeft het verzoek/voorstel op de validatieregels van de CVGG?     |
-|    <br>**Wijziging omgevingsregeling**  |    <br>Welke impact heeft het verzoek/voorstel op de omgevingsregeling?                                                           |
-|    <br>**Classificering (X/Y/Z)** |    <br> Gaat het om een X, Y, of Z wijziging?                                          |
 
 Aan de hand van bovenstaande categorieën kan bepaald worden wie er worden geraakt door het wijzigingsverzoek en wat de verandering betekent; wat er verandert voor bronhouders, software leveranciers, CVGG en de omgevingsregeling. 
 
