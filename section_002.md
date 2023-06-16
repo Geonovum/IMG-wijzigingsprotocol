@@ -101,23 +101,23 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informati
   </thead>
   <tbody>
     <tr>
-      <td> <strong>Opdrachtgever<strong> (eigenaar) van het CVGG en het informatiemodel Geluid </td>
+      <td> Opdrachtgever (eigenaar) van het CVGG en het informatiemodel Geluid </td>
       <td>Ministerie van Infrastructuur en Waterstaat (IenW) </td>
      </tr>
     <tr>
-      <td> <b>Bronhouder<b> van geluidgegevens </td>
+      <td> Bronhouder van geluidgegevens </td>
       <td>Rijksoverheden (Rijkswaterstaat, ProRail, IenW/DGLM), provincies, gemeenten, omgevingsdiensten, waterschappen </td>
      </tr>
     <tr>
-      <td> <b>Functioneel beheer<b> van het informatiemodel Geluid en beheer van het CVGG </td>
+      <td> Functioneel beheer van het informatiemodel Geluid en beheer van het CVGG </td>
       <td>Rijksinstituut voor Volksgezondheid en Milieu (RIVM) </td>
      </tr>
     <tr>
-      <td> <b>Technisch beheer<b> van het informatiemodel Geluid  </td>
+      <td> Technisch beheer van het informatiemodel Geluid  </td>
       <td>Geonovum </td>
      </tr>
     <tr>
-      <td> <b>Software leverancier<b> levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid </td>
+      <td> Software leverancier levert de software voor bronhouders voor het verwerken van geluidsgegevens conform het informatiemodel Geluid </td>
       <td>Software bedrijven </td>
      </tr>
   </tbody>
