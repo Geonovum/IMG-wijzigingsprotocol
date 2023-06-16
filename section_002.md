@@ -90,8 +90,8 @@ De volgende betrokkenen spelen een rol in het wijzigingsproces van het Informati
 
 <table>
   <colgroup>
-  <col style="width: 33%;">
-  <col style="width: 67%;">
+  <col style="width: 50%;">
+  <col style="width: 50%;">
    </colgroup>
   <thead>
     <tr>
