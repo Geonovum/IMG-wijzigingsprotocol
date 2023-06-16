@@ -75,6 +75,48 @@ Indien een melding wordt afgewezen – dus niet in de lijst met wijzigingsverzoe
 <aside class="note">Impactanalyse
 
 Wijzigingen in het IMG kunnen gevolgen hebben voor alle stakeholders binnen het IMG. Bij het opstellen van een wijzigingsvoorstel is het van belang om alle gevolgen van een wijziging in kaart te hebben gebracht ter ondersteuning van de implementatie van de wijziging. Deze inventarisatie vindt plaats tijdens de impactanalyse. Hierbij worden de volgende gegevens van het wijzigingsverzoek geïnventariseerd:
+<table>
+  <colgroup>
+  <col style="width: 33%;">
+  <col style="width: 67%;">
+   </colgroup>
+  <thead>
+    <tr>
+      <th>Rol </th>
+      <th>Stakeholder </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>**Betrokken partijen** </td>
+      <td>Wie gaat er wat van merken? </td>
+     </tr>
+    <tr>
+      <td>**Heraanlevering noodzakelijk** </td>
+      <td>Veranderen definities van objecten in de standaard zodanig dat de wijziging impact heeft op de uit te wisselen gegevens? </td>
+     </tr>
+    <tr>
+      <td>**Schemawijziging** </td>
+      <td>Welke impact heeft het verzoek/voorstel op het xml-schema? </td>
+     </tr>
+    <tr>
+      <td>**Schemavalidatie** </td>
+      <td>Is het backward compatible in de zin van validatie op het schema? waarom? </td>
+     </tr>
+    <tr>
+      <td>**Wijziging validatieregels** </td>
+      <td>Welke impact heeft het verzoek/voorstel op de validatieregels van de CVGG? </td>
+     <tr>
+    <tr>
+      <td>**Wijziging omgevingsregeling** </td>
+      <td>Welke impact heeft het verzoek/voorstel op de omgevingsregeling? </td>
+    </tr>
+      <td>**Classificering (X/Y/Z)** </td>
+      <td>Gaat het om een X, Y, of Z wijziging? </td>
+      </tr>
+  </tbody>
+</table>
+
 
 |    <br>Categorie                                                                                                                                                                        |    <br>Uitleg                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
