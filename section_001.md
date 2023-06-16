@@ -12,8 +12,8 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 
 <table>
   <colgroup>
-  <col style="width: 33%;">
-  <col style="width: 67%;">
+  <col style="width: 38%;">
+  <col style="width: 62%;">
    </colgroup>
   <thead>
     <tr>
