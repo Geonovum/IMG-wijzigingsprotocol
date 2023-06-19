@@ -5,7 +5,7 @@ let respecConfig =
   // title is verplicht! Neem hier de titel van het document op ----------------------
   title: "Wijzigingsprotocol informatiemodel Geluid",
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
-  specStatus: "DEF",                   // Werkversie
+  specStatus: "WV",                 // Werkversie
   //specStatus: "cv",               // Consultatieversie
   //specStatus: "vv",               // Versie ter vaststelling
   //specStatus: "def",              // Vastgestelde versie
@@ -15,13 +15,12 @@ let respecConfig =
   //specType: "ST",                 // Standaard
   //specType: "IM",                 // Informatie Model
   //specType: "PR",                 // Praktijkrichtlijn
-  specType: "HR",                     // HandReiking
+  //specType: "HR",                 // HandReiking
   //specType: "WA",                 // Werkafspraak
-  //specType: "BD",                 // Beheer Documentatie
+  specType: "BD",                   // Beheer Documentatie
   //specType: "AL",                 // Algemeen document
   //specType: "BP",                 // Best Practice
-  specType: "BD",
-  //-- pubDomain is verplicht! (komt in de URL) -------------------------------------
+    //-- pubDomain is verplicht! (komt in de URL) -------------------------------------
   pubDomain: "img",
   //-- license: voor de geldende gebruiksvoorwaarden. Default is cc-by.
   //licence: "cc-by-nd",            // bronvermelding, geen afgeleide werken (default)
