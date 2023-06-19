@@ -1,0 +1,3 @@
+## Samenvatting
+
+ Gebruikers, die in de praktijk werken met het informatiemodel Geluid hebben vragen over de toepassing ervan, willen weten welke ontwikkelingen spelen, en hebben mogelijk suggesties voor aanpassingen van het informatiemodel Geluid. Aanpasssingen of wijzigingen in het informatiemodel Geluid worden niet zomaar doorgevoerd; voor de ene gebruiker van het informatiemodel zal de wijziging gering zijn, voor de ander kan het grote gevolgen hebben. Dit wijzigingsprotocol geeft inzicht in het wijzigingsproces, evenals de belangrijkste taken en verantwoordelijkheden van de betrokkenen (stakeholders) bij het onderhouden en gebruiken van het informatiemodel Geluid. De stakeholders worden op diverse momenten betrokken in dit proces.
