@@ -4,7 +4,7 @@ De aanleiding voor een wijzigingsproces is gebaseerd op meldingen over de wensen
 
 ### <a name='_Ref503261432'></a>Fasen in het wijzigingsproces
 
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1<a></a>.
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1.
 
 <figure style="width: 35%;">
 
@@ -26,11 +26,11 @@ De fase Toetsing vormt een brug tussen de inhoud en besluitvorming. In deze fase
 
 <b>Besluitvorming</b>
 
-Bij Besluitvorming wordt besloten om de gewijzigde IMG standaard vast te stellen en te publiceren. Afhankelijk van het type wijzigingsvoorstel (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten<a></a>), besluit de voorzitter van de stuurgroep CVGG voor X en Y wijzigingen en het beheeroverleg voor de Z wijzigingen.
+Bij Besluitvorming wordt besloten om de gewijzigde IMG standaard vast te stellen en te publiceren. Afhankelijk van het type wijzigingsvoorstel (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten), besluit de voorzitter van de stuurgroep CVGG voor X en Y wijzigingen en het beheeroverleg voor de Z wijzigingen.
 
 <b>Implementatie</b>
 
-Het in gebruik nemen van de nieuwe IMG standaard in de praktijk staat centraal in deze fase. Hiervoor levert het technisch beheer verschillende technische bestanden op. De technische bestanden zijn bijvoorbeeld testbestanden. Deze bestanden ondersteunen bij de implementatie van de standaard in de software. Beheerders van de CVGG nemen het nieuwe informatiemodel Geluid in gebruik. Het functioneel en technisch beheer ondersteunt de implementatie bovendien door de werking van het informatiemodel toe te lichten tijdens bijvoorbeeld bijeenkomsten of 'inloopspreekuren' voor de gebruikers en software leveranciers. Resultaat van deze fase is dat de gebruikers geluidsgegevens kunnen maken en uitwisselen conform de nieuwe IMG standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
+Het in gebruik nemen van de nieuwe IMG standaard in de praktijk staat centraal in deze fase. Hiervoor levert het technisch beheer verschillende technische bestanden op. De technische bestanden zijn bijvoorbeeld testbestanden. Deze bestanden ondersteunen bij de implementatie van de standaard in de software. Beheerders van de CVGG nemen het nieuwe informatiemodel Geluid in gebruik. Het functioneel en technisch beheer ondersteunt de implementatie bovendien door de werking van het informatiemodel toe te lichten tijdens bijvoorbeeld bijeenkomsten of 'inloopspreekuren' voor de gebruikers en software leveranciers. Resultaat van deze fase is dat de gebruikers geluidsgegevens kunnen maken en uitwisselen conform de nieuwe IMG standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5 lichten we de implementatie verder toe.
 
 ### Het wijzigingsproces in detail
 
