@@ -4,13 +4,13 @@ De aanleiding voor een wijzigingsproces is gebaseerd op meldingen over de wensen
 
 ### <a name='_Ref503261432'></a>Fasen in het wijzigingsproces
 
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1.
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#_Ref503260625'>Figuur 1</a>.
 
 <figure style="width: 35%;">
 
 <a name='_Ref503260625'></a><img src="media/image3.png" alt="media/image3.png"/></img>
 
-<figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption>
+<figcaption>Fasen wijzigingsproces</figcaption>
 
 </figure>
 
