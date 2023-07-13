@@ -51,5 +51,5 @@ Bij X en Y-wijzigingen wordt in sommige gevallen een publieke consultatie in het
 
 <i>Werkafspraken</i>
 
-De tussentijdse werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#tussentijdse-werkafspraken'>Hoofdstuk 4) worden gepubliceerd via nieuwsberichten op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'> website</a> en door middel van  nieuwsbrief van de CVGG. 
+De tussentijdse werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#tussentijdse-werkafspraken'>Hoofdstuk 4</a>) worden gepubliceerd via nieuwsberichten op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>website</a> en door middel van  nieuwsbrief van de CVGG. 
 
