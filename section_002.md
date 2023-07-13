@@ -15,7 +15,7 @@ Het wijzigingsprotocol voor het Informatiemodel Geluid geeft:
 
 </ul>
 
-### <a name='_Ref503261397'></a><a name='_Ref503261402'></a><a name='_Ref503261548'></a>Releasebeleid
+### Releasebeleid
 
 #### Nieuwe versie van de standaard
 
