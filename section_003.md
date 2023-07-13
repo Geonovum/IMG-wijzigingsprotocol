@@ -26,7 +26,7 @@ De fase Toetsing vormt een brug tussen de inhoud en besluitvorming. In deze fase
 
 <b>Besluitvorming</b>
 
-Bij Besluitvorming wordt besloten om de gewijzigde IMG standaard vast te stellen en te publiceren. Afhankelijk van het type wijzigingsvoorstel (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten), besluit de voorzitter van de stuurgroep CVGG voor X en Y wijzigingen en het beheeroverleg voor de Z wijzigingen.
+Bij Besluitvorming wordt besloten om de gewijzigde IMG standaard vast te stellen en te publiceren. Afhankelijk van het type wijzigingsvoorstel (X, Y of Z, zie paragraaf <a href='#_Ref482110995'>proces varianten</a>), besluit de voorzitter van de stuurgroep CVGG voor X en Y wijzigingen en het beheeroverleg voor de Z wijzigingen.
 
 <b>Implementatie</b>
 
