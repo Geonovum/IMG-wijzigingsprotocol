@@ -68,7 +68,7 @@ Na het uitbrengen van een nieuwe versie van een standaard blijven oudere versies
 
 ### <a name='_Ref482110995'></a>Proces varianten
 
-In paragraaf <a href='#_Ref503261402'>releasebeleid</a> zijn de X, Y en Z wijzigingen uitgelegd. Wijzigingen kennen drie procesvarianten: eén voor X wijzigingen, één voor Y wijzigingen en één voor Z wijzigingen.
+In paragraaf <a href='#_Ref503261402'>releasebeleid</a> zijn de X, Y en Z wijzigingen uitgelegd. Wijzigingen kennen drie procesvarianten: één voor X wijzigingen, één voor Y wijzigingen en één voor Z wijzigingen.
 
 De start van het proces is voor alle varianten hetzelfde. Op de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-geluid' target='_blank'>website</a> wordt een wijzigingsverzoek ingediend bij de IMG Helpdesk. De impact van deze wijziging wordt door het technisch beheer beoordeeld in samenwerking met het functioneel beheerd in een impactanalyse. Deze eerste impactanalyse beoordeelt tot welke SemVer categorie de wijziging hoort, welke betrokken partijen geraakt worden door de wijziging en wat de secundaire effecten van de wijziging zijn (bijvoorbeeld ontstaan extra validatieregels in het CVGG). Naast de impactanalyse wordt, indien mogelijk, een oplossing aangedragen voor het wijzigingsverzoek. 
 
