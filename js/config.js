@@ -27,7 +27,7 @@ let respecConfig =
   //licence: "cc0",                 // Public Domain Dedication
   licence: "cc-by-nd",              // Attribution, met bronvermelding
   //-- shortName is verplicht! (komt in de URL: kies logische afkorting)--------------
-  shortName: "IMG-wijzigingsprotocol",
+  shortName: "img-wijzigingsprotocol",
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2023-06-08",
